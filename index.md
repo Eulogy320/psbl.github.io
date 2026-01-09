@@ -9,7 +9,7 @@ Our main goal is to understand how plants sense and respond to nutrients. And in
 {% include section.html full=true %}
 
 {% include figure.html
-  image="images/Group_picture_2024.jpg"
+  image="images/grupal_pic.jpg"
   link="team"
   width="1182px"
 %}
