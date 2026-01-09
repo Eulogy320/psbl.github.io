@@ -1,9 +1,18 @@
 ---
+title: Home
 ---
 
-# Eulogy320's Website
+# Plant system Biology Lab at Pontificia Universidad Católica de Chile 
 
-An engaging 1-3 sentence description of your lab.
+Our main goal is to understand how plants sense and respond to nutrients. And in particular, how nutrient signals interact with other signaling pathways to coordinate global gene expression in plants.
+
+{% include section.html full=true %}
+
+{% include figure.html
+  image="images/Group_picture_2024.jpg"
+  link="team"
+  width="1182px"
+%}
 
 {% include section.html %}
 
