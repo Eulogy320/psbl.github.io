@@ -5,6 +5,6 @@
 
   # Eulogy320's Website
 
-  Visit **[eulogy320.github.io/psbl.github.io](https://eulogy320.github.io/psbl.github.io)** 🚀
+  Visit **[eulogy320.github.io/psbl](https://eulogy320.github.io/psbl)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
