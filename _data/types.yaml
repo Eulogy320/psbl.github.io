@@ -5,6 +5,10 @@
 principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
+  
+research-associate:
+  icon: fa-solid fa-microscope
+  description: Research Associate 
 
 postdoc:
   icon: fa-solid fa-glasses
