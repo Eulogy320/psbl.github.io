@@ -60,12 +60,12 @@ theme: null
 
 # sass settings
 sass:
-  sass_dir: css
+  sass_dir: _styles
 
 # force jekyll to include certain files/folders
 include:
-  - css
-  - js
+  - _styles
+  - _scripts
 
 # force jekyll to exclude certain files/folders
 exclude:
