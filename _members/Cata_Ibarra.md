@@ -1,6 +1,6 @@
 ---
 name: Catalina Ibarra
-image: imagen que sale en la pagina web del lab
+image: images/members/catalina-ibarra.jpg
 description: Plant molecular biology
 status: current
 role: Research Associate
