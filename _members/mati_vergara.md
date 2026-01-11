@@ -1,6 +1,6 @@
 ---
 name: Matías Vergara
-image: images/members/matiasV.jpg
+image: images/members/matiV.jpg
 description: Plant molecular biology
 status: current
 role: Bioinformatician
