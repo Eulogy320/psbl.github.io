@@ -1,11 +1,11 @@
 ---
-name: Catalina Ibarra
-image: image/members/matiV.jpg
+name: Matías Vergara
+image: images/members/matiasV.jpg
 description: Plant molecular biology
 status: current
-role: Research Associate
-aliases: Cata
-  - 
+role: Bioinformatician
+aliases: 
+  - Mati 2
 links:
   home-page: 
   email: caibarra@uc.cl
@@ -13,8 +13,6 @@ links:
   gitlab: 
   github: 
   linkedin: https://www.linkedin.com/in/catalina-ibarra-henriquez-b907391ba/?originalSubdomain=cl
-  researchgate:https://www.researchgate.net/scientific-contributions/Catalina-Ibarra-Henriquez-2125549366
-
 ---
 
-I am a PhD in molecular genetics and microbiology. My research focuses on plant molecular biology, with the aim of understanding gene regulation, developmental processes, and signal integration in plants at the molecular level. I combine molecular genetics, functional genomics, synthetic biology and systems-level approaches to dissect regulatory networks controlling nutrient responses, stress signaling, and developmental transitions. My work involves both model and non-model plant species, including plants native to the Atacama Desert and other extreme ecosystems such as altiplanic salt lake, integrating laboratory and field-based approaches. My research integrates extensive expertise in molecular techniques, including molecular cloning (Gibson assembly, Golden Gate, and LOOP), protein–protein and protein–DNA interaction assays (BiFC, SUS, and Y1H), and genome editing using CRISPR-based technologies. In parallel, I lead and coordinate multidisciplinary research projects that integrate molecular biology, ecology, genomics, and environmental sciences.
+BLablabla bla bla 
