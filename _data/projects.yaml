@@ -1,12 +1,13 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: Nitrate control of leaf growth and size in Arabidopsis thaliana
+  subtitle: ANID-FONDECYT
+  group: PSBL
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: 
+  description: The main research question that guides this proposal is: What are the molecular mechanisms implicated in nitrate-control of leaf growth and size in Arabidopsis thaliana?  to answer this question, we propose the following hypothesis: The nitrate and cytokinin signaling pathways interact to regulate cell proliferation and endoreplication to specify leaf growth and size in A. thaliana. GENERAL AIM. 
+  To map the regulatory networks downstream of nitrate signaling and their interaction with cytokinin signaling to regulate cell proliferation or endoreplication and specify leaf growth and size in Arabidopsis thaliana.
+  repo: 
   tags:
-    - resource
+    - Grant
 
 - title: Cool Package
   subtitle: a subtitle
