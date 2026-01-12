@@ -20,7 +20,7 @@ Our main goal is to understand how plants sense and respond to nutrients. And in
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our laboratory integrates experimental plant biology, computational modeling, and systems-level analysis to understand how plants perceive and respond to environmental signals. By combining molecular genetics, quantitative approaches, and theoretical frameworks, we aim to uncover regulatory mechanisms that control growth, adaptation, and resilience, generating knowledge with relevance for both fundamental science and sustainable agriculture..
 
 {%
   include button.html
@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+hablar sobre los proyectos .
 
 {%
   include button.html
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Descripción equipo lab.
 
 {%
   include button.html
