@@ -200,27 +200,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -236,30 +220,140 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1186/s12864-024-10416-w
+  title: Genomes of the Orestias pupfish from the Andean Altiplano shed light on their
+    evolutionary history and phylogenetic relationships within Cyprinodontiformes
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Pamela Morales
+  - Felipe Gajardo
+  - Camilo Valdivieso
+  - "Mois\xE9s A. Valladares"
+  - Alex Di Genova
+  - Ariel Orellana
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Mauricio Gonz\xE1lez"
+  - Martin Montecino
+  - Alejandro Maass
+  - "Marco A. M\xE9ndez"
+  - Miguel L. Allende
+  publisher: BMC Genomics
+  date: '2024-06-18'
+  link: https://doi.org/hbjqqh
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1093/jxb/erae117
+  title: Phylogenetically diverse wild plant species use common biochemical strategies
+    to thrive in the Atacama Desert
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Thomas Dussarrat
+  - Ricardo Nilo-Poyanco
+  - "Tom\xE1s C Moyano"
+  - Sylvain Prigent
+  - Tim L Jeffers
+  - "Francisca P D\xEDaz"
+  - Guillaume Decros
+  - Lauren Audi
+  - Veronica M Sondervan
+  - Bingran Shen
+  - Viviana Araus
+  - Dominique Rolin
+  - Dennis Shasha
+  - Gloria M Coruzzi
+  - Yves Gibon
+  - Claudio Latorre
+  - "Pierre P\xE9triacq"
+  - "Rodrigo A Guti\xE9rrez"
+  publisher: Journal of Experimental Botany
+  date: '2024-03-13'
+  link: https://doi.org/hbjqqj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/plcell/koae038
+  title: 'Nitrogen sensing and regulatory networks: it''s about time and space'
+  authors:
+  - Carly M Shanks
+  - Karin Rothkegel
+  - Matthew D Brooks
+  - Chia-Yi Cheng
+  - "Jos\xE9 M Alvarez"
+  - Sandrine Ruffel
+  - Gabriel Krouk
+  - "Rodrigo A Guti\xE9rrez"
+  - Gloria M Coruzzi
+  publisher: The Plant Cell
+  date: '2024-02-14'
+  link: https://doi.org/hbjqqk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0297081
+  title: An Open One-Step RT-qPCR for SARS-CoV-2 detection
+  authors:
+  - Ariel Cerda
+  - Maira Rivera
+  - Grace Armijo
+  - Catalina Ibarra-Henriquez
+  - Javiera Reyes
+  - "Paula Bl\xE1zquez-S\xE1nchez"
+  - "Javiera Avil\xE9s"
+  - "An\xEDbal Arce"
+  - Aldo Seguel
+  - Alexander J. Brown
+  - "Yesseny V\xE1squez"
+  - "Marcelo Cortez-San Mart\xEDn"
+  - Francisco A. Cubillos
+  - "Patricia Garc\xEDa"
+  - Marcela Ferres
+  - "C\xE9sar A. Ram\xEDrez-Sarmiento"
+  - "Fern\xE1n Federici"
+  - "Rodrigo A. Guti\xE9rrez"
+  publisher: PLOS ONE
+  date: '2024-01-25'
+  link: https://doi.org/hbjqqm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/yea.3920
+  title: <i>Nakazawaea atacamensis</i> f.a., sp. nov. a novel nonconventional fermentative
+    ascomycetous yeast species from the Atacama Desert
+  authors:
+  - Macarena Araya
+  - Pablo Villarreal
+  - "Tom\xE1s Moyano"
+  - Ana R. O. Santos
+  - "Francisca P. D\xEDaz"
+  - "Andrea Bustos\u2010Jarufe"
+  - Kamila Urbina
+  - Javier E. del Pino
+  - Marizeth Groenewald
+  - "Rodrigo A. Guti\xE9rrez"
+  - Carlos A. Rosa
+  - Francisco A. Cubillos
+  publisher: Yeast
+  date: '2023-12-26'
+  link: https://doi.org/hbjqqn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.19415
+  title: Ecological and metabolic implications of the nurse effect of <i>Maihueniopsis
+    camachoi</i> in the Atacama Desert
+  authors:
+  - "Francisca P. D\xEDaz"
+  - Thomas Dussarrat
+  - "Gabriela Carrasco\u2010Puga"
+  - "Sophie Colombi\xE9"
+  - Sylvain Prigent
+  - Guillaume Decros
+  - "St\xE9phane Bernillon"
+  - "C\xE9dric Cassan"
+  - "Am\xE9lie Flandin"
+  - Pablo C. Guerrero
+  - Yves Gibon
+  - Dominique Rolin
+  - Lohengrin A. Cavieres
+  - "Pierre P\xE9triacq"
+  - Claudio Latorre
+  - "Rodrigo A. Guti\xE9rrez"
+  publisher: New Phytologist
+  date: '2023-11-20'
+  link: https://doi.org/hbjqqp
   plugin: sources.py
   file: sources.yaml
