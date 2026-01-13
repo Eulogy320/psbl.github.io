@@ -1,18 +1,19 @@
 ---
 name: Matías Vergara
 image: images/members/matiV.jpg
-description: Plant molecular biology
+description: weno pal sc y la sex
 status: current
-role: Bioinformatician
+role: Sinaka.com
 aliases: 
   - Mati 2
 links:
   home-page: 
-  email: caibarra@uc.cl
-  orcid: https://investigadores.anid.cl/es/public_search/researcher?id=36434
+  email: matvergara19@gmail.com
+  orcid: 
   gitlab: 
   github: 
-  linkedin: https://www.linkedin.com/in/catalina-ibarra-henriquez-b907391ba/?originalSubdomain=cl
+  linkedin: 
 ---
 
-BLablabla bla bla 
+I like el single cell
+
