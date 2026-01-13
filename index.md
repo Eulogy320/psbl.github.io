@@ -43,7 +43,7 @@ Our laboratory integrates experimental plant biology, computational modeling, an
 
 {% capture text %}
 
-hablar sobre los proyectos .
+Our projects address fundamental and applied questions in plant and ecosystem biology, with a focus on growth regulation, environmental adaptation, and resilience to biotic and abiotic stress. By combining molecular genetics, quantitative modeling, synthetic biology, and data-driven approaches, we generate predictive frameworks and actionable knowledge relevant to sustainable agriculture and environmental management.
 
 {%
   include button.html
@@ -68,7 +68,7 @@ hablar sobre los proyectos .
 
 {% capture text %}
 
-Descripción equipo lab.
+Our team is an interdisciplinary group of researchers with expertise in plant biology, genomics, systems biology, computational modeling, and bioinformatics. We foster a collaborative and inclusive research environment that integrates experimental and theoretical approaches, supports early-career scientists, and promotes scientific excellence through training, mentorship, and international collaboration.
 
 {%
   include button.html
