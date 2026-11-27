@@ -15,6 +15,8 @@ This section presents peer-reviewed articles, reviews, and conference contributi
   <span class="publication-count-label">publications</span>
 </div>
 
+<h2 class="publication-count-heading">{{ publication_count }} publications in our research archive</h2>
+
 {% include section.html %}
 
 ## Highlighted
