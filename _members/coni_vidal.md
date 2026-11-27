@@ -4,6 +4,7 @@ image: images/members/Coni.jpg
 description: Plant molecular biology
 status: current
 role: Research Assistant
+order: 24
 aliases: 
   - La coni
 links:

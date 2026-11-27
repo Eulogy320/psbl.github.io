@@ -4,6 +4,7 @@ image: images/members/Karem.jpg
 description: Plant molecular biology
 status: current
 role: Lab manager
+order: 2
 aliases: 
   - Eleo' 
 links:

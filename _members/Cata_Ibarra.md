@@ -4,6 +4,7 @@ image: images/members/catalina-ibarra.jpg
 description: Plant molecular biology
 status: current
 role: Research Associate
+order: 22
 aliases: 
   - Cata
 links:

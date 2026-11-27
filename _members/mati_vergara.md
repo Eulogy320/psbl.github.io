@@ -4,6 +4,7 @@ image: images/members/matiV.jpg
 description: Bioinformatician
 status: current
 role: Research Assistant
+order: 25
 aliases: 
   - Mati 2
 links:

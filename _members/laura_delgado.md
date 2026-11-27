@@ -4,6 +4,7 @@ image: images/members/lauraXD.jpg
 description: Plant molecular biology; plant nutrition
 status: current
 role: Postdoctoral Researcher
+order: 21
 aliases: 
   - Soa Laura
 links:

@@ -4,6 +4,7 @@ image: images/members/vale2.jpg
 description: Plant cell biology - Cell wall metabolism - Biomechanics
 status: current
 role: Postdoctoral Researcher
+order: 6
 aliases: 
   - La Vale
 links:

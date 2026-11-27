@@ -4,6 +4,7 @@ image: images/members/Karin.jpg
 description: Plant molecular biology
 status: current
 role: Research Associate
+order: 5
 aliases: 
   - Karin  
 links:

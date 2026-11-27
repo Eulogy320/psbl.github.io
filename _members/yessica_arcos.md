@@ -4,6 +4,7 @@ image: images/members/yesi.jpg
 description: Plant molecular biology
 status: current
 role: Research Assistant
+order: 26
 aliases: 
   - Yesi 
 links:

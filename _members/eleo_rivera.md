@@ -4,6 +4,7 @@ image: images/members/eleo.jpg
 description: Plant molecular biology
 status: current
 role: Research Associate
+order: 3
 aliases: 
   - Eleo' 
 links:

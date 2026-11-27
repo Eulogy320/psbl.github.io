@@ -4,6 +4,7 @@ image: images/members/Fran.jpg
 description: Plant molecular biology
 status: current
 role: Postdoctoral Fellow 
+order: 20
 aliases: 
   - Noe 
 links:

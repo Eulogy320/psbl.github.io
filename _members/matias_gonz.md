@@ -4,6 +4,7 @@ image: images/members/matiG1.jpg
 description: Plant molecular biology
 status: current
 role: Phd Student
+order: 12
 aliases: 
   - Mati 1
 links:
