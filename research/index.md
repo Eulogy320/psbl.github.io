@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-This section presents peer-reviewed articles, reviews, and conference contributions produced by PSBL's members. The list combines the publications in Rodrigo Gutiérrez's CV with the historical publication list from VirtualPlant, removing duplicates. These publications reflect our interdisciplinary research in plant development, computational biology, quantitative modeling, and document our scientific contributions to understanding plant growth, structure, and adaptive processes.
+This section presents peer-reviewed articles, reviews, and conference contributions produced by PSBL's members. Rodrigo Gutiérrez's CV (CV RG) is the primary source for this list; the historical VirtualPlant records are used only to add unique publications that are missing from the CV, with duplicates removed. These publications reflect our interdisciplinary research in plant development, computational biology, quantitative modeling, and document our scientific contributions to understanding plant growth, structure, and adaptive processes.
 
 {% assign publication_count = site.data.citations | size %}
 <div class="publication-count" aria-label="{{ publication_count }} publications in Research">
