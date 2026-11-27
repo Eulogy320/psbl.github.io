@@ -20,7 +20,17 @@
   </a>
   <div class="feature-text">
     {% if include.title %}
-      <p class="feature-title">{{ include.title }}</p>
+      <div class="feature-heading">
+        {% if include.badge %}
+          <img
+            class="feature-badge"
+            src="{{ include.badge | relative_url | uri_escape }}"
+            alt=""
+            aria-hidden="true"
+          >
+        {% endif %}
+        <p class="feature-title">{{ include.title }}</p>
+      </div>
     {% endif %}
     {{ include.text | markdownify }}
   </div>

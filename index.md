@@ -38,6 +38,7 @@ Our laboratory integrates experimental plant biology, computational modeling, an
   image="images/photo.jpg"
   link="research"
   title="Our Research"
+  badge="images/psbl-virtualplant-logo.png"
   text=text
 %}
 
@@ -58,9 +59,10 @@ Our projects address fundamental and applied questions in plant and ecosystem bi
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/background.jpg"
   link="projects"
   title="Our Projects"
+  badge="images/psbl-virtualplant-logo.png"
   flip=true
   style="bare"
   text=text
@@ -83,8 +85,9 @@ Our team is an interdisciplinary group of researchers with expertise in plant bi
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/grupal_pic.jpeg"
   link="team"
   title="Our Team"
+  badge="images/psbl-virtualplant-logo.png"
   text=text
 %}
