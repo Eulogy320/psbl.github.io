@@ -21,4 +21,11 @@
   font-weight: 600;
 }
 
+.publication-count-heading {
+  margin: 18px 0 0;
+  color: var(--text);
+  font-size: clamp(1.25rem, 2.5vw, 1.7rem);
+  font-weight: 600;
+}
+
 /*# sourceMappingURL=research.css.map */
