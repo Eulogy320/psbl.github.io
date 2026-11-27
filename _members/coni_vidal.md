@@ -3,7 +3,7 @@ name: Constanza Vidal
 image: images/members/Coni.jpg
 description: Plant molecular biology
 status: current
-role: ??????
+role: Research Assistant
 aliases: 
   - La coni
 links:

@@ -3,7 +3,7 @@ name: Yessica Arcos
 image: images/members/yesi.jpg
 description: Plant molecular biology
 status: current
-role: ?????
+role: Research Assistant
 aliases: 
   - Yesi 
 links:
