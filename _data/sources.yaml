@@ -58,12 +58,22 @@
   type: paper
   id: doi:10.1111/geb.13936
   link: https://doi.org/10.1111/geb.13936
-- title: Araya M, Villarreal P, Moyano T, Santos ARO, Díaz FP, Bustos-Jarufe A, Urbina
-    K, Del Pino JE, Groenewald M, Gutiérrez RA, Rosa CA, Cubillos FA. Nakazawaea atacamensis
-    f.a., sp. nov. a novel nonconventional fermentative ascomycetous yeast species
-    from the Atacama Desert. Yeast (Chichester, England), 41(1-2), 52–63. https://doi.org/10.1002/yea.3920.
-  publisher: Scientific publication
-  date: '2024-01-01'
+- title: Nakazawaea atacamensis f.a., sp. nov. a novel nonconventional fermentative ascomycetous yeast species from the Atacama Desert
+  authors:
+  - Macarena Araya
+  - Pablo Villarreal
+  - Tomás Moyano
+  - Ana R. O. Santos
+  - Francisca P. Díaz
+  - Andrea Bustos-Jarufe
+  - Kamila Urbina
+  - Javier E. del Pino
+  - Marizeth Groenewald
+  - Rodrigo A. Gutiérrez
+  - Carlos A. Rosa
+  - Francisco A. Cubillos
+  publisher: Yeast
+  date: '2023-12-26'
   type: paper
   id: doi:10.1002/yea.3920
   link: https://doi.org/10.1002/yea.3920
