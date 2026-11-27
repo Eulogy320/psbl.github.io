@@ -280,10 +280,11 @@
   - Alejandro Maass
   - "Marco A. M\xE9ndez"
   - Miguel L. Allende
-  publisher: Scientific publication
-  date: '2024-01-01'
+  publisher: BMC Genomics
+  date: '2024-06-18'
   link: https://doi.org/10.1186/s12864-024-10416-w
   type: paper
+  image: papers/Morales-et-al-2024-Orestias-cover.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/jxb/erae117
