@@ -186,10 +186,6 @@
   link: https://doi.org/10.1002/yea.3920
   type: paper
   image: papers/Araya-et-al-2024-Nakazawaea-atacamensis-cover.png
-  buttons:
-  - type: external
-    text: Download PDF
-    link: papers/Araya-et-al-2024-Nakazawaea-atacamensis.pdf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/nph.20342
