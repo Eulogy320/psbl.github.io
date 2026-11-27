@@ -12,8 +12,8 @@ Plant System Biology Laboratory (PSBL) is an interdisciplinary research group fo
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Rodrigo Gutierrez'" %}
+{% include list.html data="members" component="portrait" filter="name != 'Rodrigo Gutierrez'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
