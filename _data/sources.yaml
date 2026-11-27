@@ -63,10 +63,14 @@
     f.a., sp. nov. a novel nonconventional fermentative ascomycetous yeast species
     from the Atacama Desert. Yeast (Chichester, England), 41(1-2), 52–63. https://doi.org/10.1002/yea.3920.
   publisher: Scientific publication
-  date: '2026-01-01'
+  date: '2024-01-01'
   type: paper
   id: doi:10.1002/yea.3920
   link: https://doi.org/10.1002/yea.3920
+  buttons:
+  - type: external
+    text: Download PDF
+    link: papers/Araya-et-al-2024-Nakazawaea-atacamensis.pdf
 - title: 'Estravis-Barcala, M., Gaischuk, S., Gonzalez-Polo, M., Martinez-Meier, A.,
     Gutiérrez, R. A., Yanovsky, M. J., Bellora, N., & Arana, M. V. (2025). Effect
     of temperature on circadian clock functioning of trees in the context of global
