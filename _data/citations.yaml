@@ -15,13 +15,11 @@
   - "Nicol\xE1s Bellora"
   - Francisco A. Cubillos
   - Juliana A. Vianna
-  id: "doi:10.1002/ece3.73758"
-  link: https://doi.org/10.1002/ece3.73758
   publisher: Scientific publication
-  date: "2026-06-05"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2026-06-05'
   link: https://doi.org/10.1002/ece3.73758
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -39,13 +37,11 @@
   - "Ana Z\xFA\xF1iga"
   - "Bernardo Gonz\xE1lez"
   - "Rodrigo A Guti\xE9rrez"
-  id: "doi:10.1093/jxb/erag005"
-  link: https://doi.org/10.1093/jxb/erag005
   publisher: Scientific publication
-  date: "2026-01-13"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2026-01-13'
   link: https://doi.org/10.1093/jxb/erag005
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -57,13 +53,11 @@
   - Karin Rothkegel
   - "Alex Cabrera N\xFA\xF1ez"
   - "Rodrigo A. Guti\xE9rrez"
-  id: "doi:10.1016/j.xpro.2026.104350"
-  link: https://doi.org/10.1016/j.xpro.2026.104350
   publisher: Scientific publication
-  date: "2026-03-01"
-  date_precision: month
-  date_source: "Crossref published"
+  date: '2026-03-01'
   link: https://doi.org/10.1016/j.xpro.2026.104350
+  date_precision: month
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -95,13 +89,11 @@
   - Alejandro Maass
   - "Graciela Garc\xEDa"
   - Miguel L. Allende
-  id: "doi:10.1186/s40659-025-00649-8"
-  link: https://doi.org/10.1186/s40659-025-00649-8
   publisher: Scientific publication
-  date: "2025-11-27"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2025-11-27'
   link: https://doi.org/10.1186/s40659-025-00649-8
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -119,13 +111,11 @@
   - Ariel Orellana
   - Sarah Robinson
   - "Rodrigo A. Guti\xE9rrez"
-  id: "doi:10.1111/tpj.70547"
-  link: https://doi.org/10.1111/tpj.70547
   publisher: Scientific publication
-  date: "2025-10-30"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2025-10-30'
   link: https://doi.org/10.1111/tpj.70547
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -179,13 +169,11 @@
   - Mark Westoby
   - Benjamin Wigley
   - Ian J. Wright
-  id: "doi:10.1111/geb.13936"
-  link: https://doi.org/10.1111/geb.13936
   publisher: Scientific publication
-  date: "2024-12-13"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2024-12-13'
   link: https://doi.org/10.1111/geb.13936
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -205,13 +193,11 @@
   - "Rodrigo A. Guti\xE9rrez"
   - Carlos A. Rosa
   - Francisco A. Cubillos
-  id: "doi:10.1002/yea.3920"
-  link: https://doi.org/10.1002/yea.3920
   publisher: Yeast
-  date: "2023-12-26"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2023-12-26'
   link: https://doi.org/10.1002/yea.3920
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   image: papers/Araya-et-al-2024-Nakazawaea-atacamensis-cover.png
   buttons:
@@ -234,8 +220,12 @@
   - Marcelo J. Yanovsky
   - "Nicol\xE1s Bellora"
   - "Mar\xEDa Ver\xF3nica Arana"
-  id: "doi:10.1111/nph.20342"
+  publisher: Scientific publication
+  date: '2025-01-08'
   link: https://doi.org/10.1111/nph.20342
+  date_precision: day
+  date_source: Crossref published-online
+  type: paper
   image: papers/doi-10.1111_nph.20342.png
   buttons:
   - type: external
@@ -243,13 +233,6 @@
     link: papers/doi-10.1111_nph.20342.pdf
   pdf_source: https://www.biorxiv.org/content/biorxiv/early/2024/03/27/2024.03.22.586279.full.pdf
   pdf_license: cc-by-nc-nd
-
-  publisher: Scientific publication
-  date: "2025-01-08"
-  date_precision: day
-  date_source: "Crossref published-online"
-  link: https://doi.org/10.1111/nph.20342
-  type: paper
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1146/annurev-arplant-083123-053039
@@ -265,13 +248,11 @@
   - "Rodrigo A. Guti\xE9rrez"
   - Gloria M. Coruzzi
   - Gabriel Krouk
-  id: "doi:10.1146/annurev-arplant-083123-053039"
-  link: https://doi.org/10.1146/annurev-arplant-083123-053039
   publisher: Scientific publication
-  date: "2025-05-20"
-  date_precision: day
-  date_source: "Crossref published"
+  date: '2025-05-20'
   link: https://doi.org/10.1146/annurev-arplant-083123-053039
+  date_precision: day
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -303,13 +284,11 @@
   - Berkley Walker
   - Danielle Way
   - Andreas P.M. Weber
-  id: "doi:10.1016/j.tplants.2024.11.001"
-  link: https://doi.org/10.1016/j.tplants.2024.11.001
   publisher: Scientific publication
-  date: "2025-04-01"
-  date_precision: month
-  date_source: "Crossref published"
+  date: '2025-04-01'
   link: https://doi.org/10.1016/j.tplants.2024.11.001
+  date_precision: month
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -332,13 +311,11 @@
   - Alejandro Maass
   - "Marco A. M\xE9ndez"
   - Miguel L. Allende
-  id: "doi:10.1186/s12864-024-10416-w"
-  link: https://doi.org/10.1186/s12864-024-10416-w
   publisher: Scientific publication
-  date: "2024-06-18"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2024-06-18'
   link: https://doi.org/10.1186/s12864-024-10416-w
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   image: papers/Morales-et-al-2024-Orestias-cover.png
   plugin: sources.py
@@ -369,13 +346,11 @@
   - Claudio Latorre
   - "Pierre P\xE9triacq"
   - "Rodrigo A Guti\xE9rrez"
-  id: "doi:10.1093/jxb/erae117"
-  link: https://doi.org/10.1093/jxb/erae117
   publisher: Scientific publication
-  date: "2024-03-13"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2024-03-13'
   link: https://doi.org/10.1093/jxb/erae117
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -389,13 +364,11 @@
   - Eleodoro Riveras
   - Sandrine Ruffel
   - "Rodrigo A. Guti\xE9rrez"
-  id: "doi:10.1016/j.pbi.2024.102605"
-  link: https://doi.org/10.1016/j.pbi.2024.102605
   publisher: Scientific publication
-  date: "2024-10-01"
-  date_precision: month
-  date_source: "Crossref published"
+  date: '2024-10-01'
   link: https://doi.org/10.1016/j.pbi.2024.102605
+  date_precision: month
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -424,13 +397,11 @@
   - "C\xE9sar A. Ram\xEDrez-Sarmiento"
   - "Fern\xE1n Federici"
   - "Rodrigo A. Guti\xE9rrez"
-  id: "doi:10.1371/journal.pone.0297081"
-  link: https://doi.org/10.1371/journal.pone.0297081
   publisher: Scientific publication
-  date: "2024-01-25"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2024-01-25'
   link: https://doi.org/10.1371/journal.pone.0297081
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -446,13 +417,11 @@
   - "Jos\xE9 M. Alvarez"
   - Stefanie Rosa
   - "Rodrigo A. Guti\xE9rrez"
-  id: "doi:10.1111/pce.15018"
-  link: https://doi.org/10.1111/pce.15018
   publisher: Scientific publication
-  date: "2024-07-01"
-  date_precision: month
-  date_source: "Crossref published-online"
+  date: '2024-07-01'
   link: https://doi.org/10.1111/pce.15018
+  date_precision: month
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -470,66 +439,116 @@
   - Andrea Vega
   - "Mar\xEDa A. Moya-Le\xF3n"
   - "Ra\xFAl Herrera"
-  id: "doi:10.3390/ijms25137245"
-  link: https://doi.org/10.3390/ijms25137245
   publisher: Scientific publication
-  date: "2024-06-30"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2024-06-30'
   link: https://doi.org/10.3390/ijms25137245
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Shanks, C., Rothkegel, K., Brooks, M.D., Cheng, C.Y., Alvarez, J.M., Ruffel,\
+- id: doi:10.1093/plcell/koae038
+  title: "Shanks, C., Rothkegel, K., Brooks, M.D., Cheng, C.Y., Alvarez, J.M., Ruffel,\
     \ S., Krouk, G., Guti\xE9rrez, R.A., Coruzzi, G.M. Nitrogen Sensing and Regulatory\
     \ Networks, it's about time - and space. The Plant Cell. Accepted."
-  id: "doi:10.1093/plcell/koae038"
-  link: https://doi.org/10.1093/plcell/koae038
+  authors:
+  - Carly M Shanks
+  - Karin Rothkegel
+  - Matthew D Brooks
+  - Chia-Yi Cheng
+  - "Jos\xE9 M Alvarez"
+  - Sandrine Ruffel
+  - Gabriel Krouk
+  - "Rodrigo A Guti\xE9rrez"
+  - Gloria M Coruzzi
   publisher: Scientific publication
-  date: "2024-02-14"
+  date: '2024-02-14'
+  link: https://doi.org/10.1093/plcell/koae038
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Chaput, V., Li, J., S\xE9r\xE9, D., Tillard, P., Fizames, C., Moyano, T.,\
+- id: doi:10.1093/jxb/erad149
+  title: "Chaput, V., Li, J., S\xE9r\xE9, D., Tillard, P., Fizames, C., Moyano, T.,\
     \ Zuo, K., Martin, A., Guti\xE9rrez, R.A., Gojon, A., Lejay, L. Characterisation\
     \ of the signalling pathways involved in the repression of root nitrate uptake\
     \ by nitrate in Arabidopsis thaliana.Journal of Experimental Botany. 2023, 74(14):4244-4258."
-  id: "doi:10.1093/jxb/erad149"
-  link: https://doi.org/10.1093/jxb/erad149
+  authors:
+  - Valentin Chaput
+  - Jianfu Li
+  - "David S\xE9r\xE9"
+  - Pascal Tillard
+  - "C\xE9cile Fizames"
+  - Tomas Moyano
+  - Kaijing Zuo
+  - Antoine Martin
+  - "Rodrigo A Guti\xE9rrez"
+  - Alain Gojon
+  - Laurence Lejay
   publisher: Scientific publication
-  date: "2023-04-25"
+  date: '2023-04-25'
+  link: https://doi.org/10.1093/jxb/erad149
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Pereyra, M.E., Costigliolo Rojas, C., Jarrell, A.F., Hovland, A.S., Snipes,\
+- id: doi:10.1073/pnas.2304513120
+  title: "Pereyra, M.E., Costigliolo Rojas, C., Jarrell, A.F., Hovland, A.S., Snipes,\
     \ S.A., Nagpal, P., Alabad\xED, D., Bl\xE1zquez, M.A., Guti\xE9rrez, R.A., Reed,\
     \ J.W., Gray, W.M., Casal, J.J. PIF4 enhances the expression of SAUR genes to\
     \ promote growth in response to nitrate. Proceedings Of The National Academy Of\
     \ Sciences Of The United States Of America, 2023, 120(39)."
-  id: "doi:10.1073/pnas.2304513120"
-  link: https://doi.org/10.1073/pnas.2304513120
+  authors:
+  - "Mat\xEDas Ezequiel Pereyra"
+  - Cecilia Costigliolo Rojas
+  - Anne F. Jarrell
+  - Austin S. Hovland
+  - Stephen A. Snipes
+  - Punita Nagpal
+  - "David Alabad\xED"
+  - "Miguel A. Bl\xE1zquez"
+  - "Rodrigo A. Guti\xE9rrez"
+  - Jason W. Reed
+  - William M. Gray
+  - "Jorge Jos\xE9 Casal"
   publisher: Scientific publication
-  date: "2023-09-19"
+  date: '2023-09-19'
+  link: https://doi.org/10.1073/pnas.2304513120
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "D\xEDaz, F.P., Dussarrat, T., Carrasco-Puga, G., Colombi\xE9, S., Prigent,\
+- id: doi:10.1111/nph.19415
+  title: "D\xEDaz, F.P., Dussarrat, T., Carrasco-Puga, G., Colombi\xE9, S., Prigent,\
     \ S., Decros, G., Bernillon, S., Cassan, C., Flandin, A., Guerrero, P.C., Gibon,\
     \ Y., Rolin, D., Cavieres, L.A., P\xE9triacq, P., Latorre, C., Guti\xE9rrez, R.A.\
     \ Ecological and metabolic implications of the nurse effect of Maihueniopsis camachoi\
     \ in the Atacama Desert. New Phytologist, 2023."
-  id: "doi:10.1111/nph.19415"
-  link: https://doi.org/10.1111/nph.19415
+  authors:
+  - "Francisca P. D\xEDaz"
+  - Thomas Dussarrat
+  - "Gabriela Carrasco\u2010Puga"
+  - "Sophie Colombi\xE9"
+  - Sylvain Prigent
+  - Guillaume Decros
+  - "St\xE9phane Bernillon"
+  - "C\xE9dric Cassan"
+  - "Am\xE9lie Flandin"
+  - Pablo C. Guerrero
+  - Yves Gibon
+  - Dominique Rolin
+  - Lohengrin A. Cavieres
+  - "Pierre P\xE9triacq"
+  - Claudio Latorre
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2023-11-20"
+  date: '2023-11-20'
+  link: https://doi.org/10.1111/nph.19415
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -554,8 +573,12 @@
   - "Joaqu\xEDn Medina"
   - "Ver\xF3nica Cambiazo"
   - Mauricio Gonzalez
-  id: "doi:10.1186/s40793-023-00486-w"
+  publisher: Scientific publication
+  date: '2023-03-28'
   link: https://doi.org/10.1186/s40793-023-00486-w
+  date_precision: day
+  date_source: Crossref published-online
+  type: paper
   image: papers/doi-10.1186_s40793-023-00486-w.png
   buttons:
   - type: external
@@ -563,13 +586,6 @@
     link: papers/doi-10.1186_s40793-023-00486-w.pdf
   pdf_source: https://environmentalmicrobiome.biomedcentral.com/counter/pdf/10.1186/s40793-023-00486-w
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2023-03-28"
-  date_precision: day
-  date_source: "Crossref published-online"
-  link: https://doi.org/10.1186/s40793-023-00486-w
-  type: paper
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/nph.18723
@@ -600,13 +616,11 @@
   - "Jozef \u0160amaj"
   - Feng Yu
   - "Jos\xE9 M. Estevez"
-  id: "doi:10.1111/nph.18723"
-  link: https://doi.org/10.1111/nph.18723
   publisher: Scientific publication
-  date: "2023-01-30"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2023-01-30'
   link: https://doi.org/10.1111/nph.18723
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -749,8 +763,12 @@
   - Miguel L. Allende
   - Christian Hodar
   - Paula Irles
-  id: "doi:10.1186/s40659-023-00414-9"
+  publisher: Scientific publication
+  date: '2023-02-17'
   link: https://doi.org/10.1186/s40659-023-00414-9
+  date_precision: day
+  date_source: Crossref published-online
+  type: paper
   image: papers/doi-10.1186_s40659-023-00414-9.png
   buttons:
   - type: external
@@ -758,13 +776,6 @@
     link: papers/doi-10.1186_s40659-023-00414-9.pdf
   pdf_source: https://biolres.biomedcentral.com/counter/pdf/10.1186/s40659-023-00414-9
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2023-02-17"
-  date_precision: day
-  date_source: "Crossref published-online"
-  link: https://doi.org/10.1186/s40659-023-00414-9
-  type: paper
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/gigascience/giac093
@@ -778,8 +789,12 @@
   - Rodrigo A Gutierrez
   - Elena A Vidal
   - Marie-France Sagot
-  id: "doi:10.1093/gigascience/giac093"
+  publisher: Scientific publication
+  date: '2022-10-25'
   link: https://doi.org/10.1093/gigascience/giac093
+  date_precision: day
+  date_source: Crossref published-online
+  type: paper
   image: papers/doi-10.1093_gigascience_giac093.png
   buttons:
   - type: external
@@ -787,25 +802,30 @@
     link: papers/doi-10.1093_gigascience_giac093.pdf
   pdf_source: https://www.biorxiv.org/content/biorxiv/early/2020/08/07/2020.08.07.240689.full.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2022-10-25"
-  date_precision: day
-  date_source: "Crossref published-online"
-  link: https://doi.org/10.1093/gigascience/giac093
-  type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Contreras-L\xF3pez O.*, Vidal E.A.*, Riveras E.*, Alvarez J.M.*, Moyano\
+- id: doi:10.1073/pnas.2107879119
+  title: "Contreras-L\xF3pez O.*, Vidal E.A.*, Riveras E.*, Alvarez J.M.*, Moyano\
     \ T.C.*, Sparks E.E., Medina J., Pasquino A., BenfeyP.N., Coruzzi G.M. Guti\xE9\
     rrez R.A. Spatiotemporal analysis identifies ABF2 and ABF3 as key hubs of endodermal\
     \ response to nitrate. Proc Natl Acad Sci U S A. 2022 Jan 25;119(4):e2107879119."
-  id: "doi:10.1073/pnas.2107879119"
-  link: https://doi.org/10.1073/pnas.2107879119
+  authors:
+  - "Orlando Contreras-L\xF3pez"
+  - Elena A. Vidal
+  - Eleodoro Riveras
+  - "Jos\xE9 M. Alvarez"
+  - "Tom\xE1s C. Moyano"
+  - Erin E. Sparks
+  - "Joaqu\xEDn Medina"
+  - Angelo Pasquino
+  - Philip N. Benfey
+  - Gloria M. Coruzzi
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2022-01-19"
+  date: '2022-01-19'
+  link: https://doi.org/10.1073/pnas.2107879119
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -834,13 +854,11 @@
   - Alejandro Maass
   - Miguel L. Allende
   - Martin A. Montecino
-  id: "doi:10.1016/j.ygeno.2021.12.018"
-  link: https://doi.org/10.1016/j.ygeno.2021.12.018
   publisher: Scientific publication
-  date: "2022-01-01"
-  date_precision: month
-  date_source: "Crossref published"
+  date: '2022-01-01'
   link: https://doi.org/10.1016/j.ygeno.2021.12.018
+  date_precision: month
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -853,13 +871,11 @@
   - "Sebasti\xE1n Moreno"
   - "Jos\xE9 M. \xC1lvarez"
   - "Rodrigo A. Guti\xE9rrez"
-  id: "doi:10.1016/j.cub.2022.03.022"
-  link: https://doi.org/10.1016/j.cub.2022.03.022
   publisher: Scientific publication
-  date: "2022-05-01"
-  date_precision: month
-  date_source: "Crossref published"
+  date: '2022-05-01'
   link: https://doi.org/10.1016/j.cub.2022.03.022
+  date_precision: month
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -876,13 +892,11 @@
   - Melissa Aguilar
   - "Rodrigo A. Guti\xE9rrez"
   - "Mauricio Gonz\xE1lez"
-  id: "doi:10.1111/nph.18080"
-  link: https://doi.org/10.1111/nph.18080
   publisher: Scientific publication
-  date: "2022-03-31"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2022-03-31'
   link: https://doi.org/10.1111/nph.18080
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -909,8 +923,12 @@
   - Dominique Rolin
   - "Rodrigo A. Guti\xE9rrez"
   - "Pierre P\xE9triacq"
-  id: "doi:10.1111/nph.18095"
+  publisher: Scientific publication
+  date: '2022-04-05'
   link: https://doi.org/10.1111/nph.18095
+  date_precision: day
+  date_source: Crossref published-online
+  type: paper
   image: papers/doi-10.1111_nph.18095.png
   buttons:
   - type: external
@@ -918,34 +936,59 @@
     link: papers/doi-10.1111_nph.18095.pdf
   pdf_source: https://zenodo.org/records/6416650/files/New%20Phytologist%20-%202022%20-%20Dussarrat%20-%20Predictive%20metabolomics%20of%20multiple%20Atacama%20plant%20species%20unveils%20a%20core%20set%20of.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2022-04-05"
-  date_precision: day
-  date_source: "Crossref published-online"
-  link: https://doi.org/10.1111/nph.18095
-  type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Herrera-V\xE1squez A, Fonseca A, Moyano T, Ugalde J, Lamig L, Seguel A,\
-    \ Guti\xE9rrez RA, Salinas P, Vidal E, and Holuigue L (2021). The transcription\
-    \ factor TGA2 controls the antioxidant defense response to UVB stress in Arabidopsis.\
-    \ J Exp Bot 72, 1891-1905."
-  id: "doi:10.1093/jxb/eraa534"
+- id: doi:10.1093/jxb/eraa534
+  title: "Herrera-V\xE1squez A, Fonseca A, Moyano T, Ugalde J, Lamig L, Seguel A,\
+    \ Guti\xE9rrez RA, Salinas P, Vidal E, and Holuigue L (2020). TGA class II transcription\
+    \ factors are essential to restrict oxidative stress in response to UV-B stress\
+    \ in Arabidopsis. J Exp Bot. 2021 Feb 27;72(5)."
+  authors:
+  - "Ariel Herrera-V\xE1squez"
+  - Alejandro Fonseca
+  - "Jos\xE9 Manuel Ugalde"
+  - Liliana Lamig
+  - Aldo Seguel
+  - "Tom\xE1s C Moyano"
+  - "Rodrigo A Guti\xE9rrez"
+  - Paula Salinas
+  - Elena A Vidal
+  - Loreto Holuigue
+  publisher: Scientific publication
+  date: '2020-11-14'
   link: https://doi.org/10.1093/jxb/eraa534
-  publisher: Scientific publication
-  date: "2020-11-14"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "\xD6tv\xF6s K, Marconi M, Vega A, Brien JO, Johnson A, Abualia R, Antonielli\
+- id: doi:10.15252/embj.2020106862
+  title: "\xD6tv\xF6s K, Marconi M, Vega A, Brien JO, Johnson A, Abualia R, Antonielli\
     \ L, Montesinos JC, Zhang Y, Tan S, Cuesta C, Artner C, Bouguyon E, Gojon A, Friml\
     \ J, Guti\xE9rrez RA, Wabnik K and Benkov\xE1 E (2021). Modulation of plant root\
     \ growth by nitrogen source-defined regulation of polar auxin transport. EMBO\
     \ J. 40: e106862."
-  id: "doi:10.15252/embj.2020106862"
+  authors:
+  - "Krisztina \xD6tv\xF6s"
+  - Marco Marconi
+  - Andrea Vega
+  - "Jose O\u2019Brien"
+  - Alexander Johnson
+  - Rashed Abualia
+  - Livio Antonielli
+  - Juan Carlos Montesinos
+  - Yuzhou Zhang
+  - Shutang Tan
+  - Candela Cuesta
+  - Christina Artner
+  - Eleonore Bouguyon
+  - Alain Gojon
+  - "Jir\xED Friml"
+  - "Rodrigo A. Guti\xE9rrez"
+  - Krzysztof Wabnik
+  - "Eva Benkov\xE1"
+  publisher: Scientific publication
+  date: '2021-01-05'
   link: https://doi.org/10.15252/embj.2020106862
   image: papers/doi-10.15252_embj.2020106862.png
   buttons:
@@ -954,31 +997,49 @@
     link: papers/doi-10.15252_embj.2020106862.pdf
   pdf_source: https://link.springer.com/content/pdf/10.15252/embj.2020106862.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2021-01-05"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Gonz\xE1lez-Mart\xEDn A, Moyano T, Hanley J, Guti\xE9rrez RA and \xC1lvarez\
+- id: doi:10.1016/j.pneurobio.2021.102122
+  title: "Gonz\xE1lez-Mart\xEDn A, Moyano T, Hanley J, Guti\xE9rrez RA and \xC1lvarez\
     \ A (2021).c-Abl Regulates a Synaptic Plasticity-related Transcriptional Program\
     \ Involved in Memory and Learning. Prog Neurobiol. 2021 Oct;205:102122."
-  id: "doi:10.1016/j.pneurobio.2021.102122"
-  link: https://doi.org/10.1016/j.pneurobio.2021.102122
+  authors:
+  - "Adri\xE1n Gonz\xE1lez-Mart\xEDn"
+  - "Tom\xE1s Moyano"
+  - "Daniela A. Guti\xE9rrez"
+  - Franciso J. Carvajal
+  - Waldo Cerpa
+  - Jonathan G. Hanley
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Alejandra R. \xC1lvarez"
   publisher: Scientific publication
-  date: "2021-10-01"
+  date: '2021-10-01'
+  link: https://doi.org/10.1016/j.pneurobio.2021.102122
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vega A, Fredes I, O\u2019Brien J, Shen Z, Oetvoes K, Benkova E, Briggs SP\
+- id: doi:10.15252/embr.202051813
+  title: "Vega A, Fredes I, O\u2019Brien J, Shen Z, Oetvoes K, Benkova E, Briggs SP\
     \ and Guti\xE9rrez RA (2021). Phosphoproteome profiling of Arabidopsis thaliana\
     \ roots reveal an important role for PIN2 in the nitrate response. EMBO Rep. 2021\
     \ Sep 6;22(9)."
-  id: "doi:10.15252/embr.202051813"
+  authors:
+  - Andrea Vega
+  - Isabel Fredes
+  - "Jos\xE9 O\u2019Brien"
+  - Zhouxin Shen
+  - "Krisztina \xD6tv\xF6s"
+  - Rashed Abualia
+  - Eva Benkova
+  - Steven P Briggs
+  - "Rodrigo A Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2021-08-06'
   link: https://doi.org/10.15252/embr.202051813
   image: papers/doi-10.15252_embr.202051813.png
   buttons:
@@ -987,61 +1048,92 @@
     link: papers/doi-10.15252_embr.202051813.pdf
   pdf_source: https://link.springer.com/content/pdf/10.15252/embr.202051813.pdf
   pdf_license: cc-by-nc-nd
-
-  publisher: Scientific publication
-  date: "2021-08-06"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Dussarrat T, Decros G, D\xEDaz FP, Gibon Y, Latorre C, Rolin D, Guti\xE9\
+- id: doi:10.1002/9781119312994.apr0758
+  title: "Dussarrat T, Decros G, D\xEDaz FP, Gibon Y, Latorre C, Rolin D, Guti\xE9\
     rrez RA, P\xE9triacq P (2021). Another tale from the harsh world: How plants adapt\
     \ to extreme environments. Annual Plant Rev Online 4, 551-604."
-  id: "doi:10.1002/9781119312994.apr0758"
-  link: https://doi.org/10.1002/9781119312994.apr0758
+  authors:
+  - Thomas Dussarrat
+  - Guillaume Decros
+  - "Francisca P. D\xEDaz"
+  - Yves Gibon
+  - Claudio Latorre
+  - Dominique Rolin
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Pierre P\xE9triacq"
   publisher: Scientific publication
-  date: "2021-06-21"
+  date: '2021-06-21'
+  link: https://doi.org/10.1002/9781119312994.apr0758
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guajardo L, Aguilar R, Bustos FJ, Nardocci G, Guti\xE9rrez RA, van Zundert\
+- id: doi:10.3390/ijms21228472
+  title: "Guajardo L, Aguilar R, Bustos FJ, Nardocci G, Guti\xE9rrez RA, van Zundert\
     \ B, Montecino M (2021). Downregulation of the Polycomb-Associated Methyltransferase\
     \ Ezh2 during Maturation of Hippocampal Neurons Is Mediated by MicroRNAs Let-7\
     \ and miR-124. Int J Mol Sci. 2020 Nov 11;21(22)."
-  id: "doi:10.3390/ijms21228472"
-  link: https://doi.org/10.3390/ijms21228472
+  authors:
+  - Laura Guajardo
+  - Rodrigo Aguilar
+  - Fernando J. Bustos
+  - Gino Nardocci
+  - "Rodrigo A. Guti\xE9rrez"
+  - Brigitte van Zundert
+  - Martin Montecino
   publisher: Scientific publication
-  date: "2020-11-11"
+  date: '2020-11-11'
+  link: https://doi.org/10.3390/ijms21228472
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Moyano TC, Guti\xE9rrez RA, and Alvarez JM (2020). Genomic Footprinting\
+- id: doi:10.1007/978-1-0716-1534-8_3
+  title: "Moyano TC, Guti\xE9rrez RA, and Alvarez JM (2020). Genomic Footprinting\
     \ Analyses from DNase-seq data to Construct Gene Regulatory Networks. Methods\
     \ Mol Biol. 2021;2328:25-46"
-  id: "doi:10.1007/978-1-0716-1534-8_3"
-  link: https://doi.org/10.1007/978-1-0716-1534-8_3
+  authors:
+  - "Tom\xE1s C. Moyano"
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Jos\xE9 M. Alvarez"
   publisher: Scientific publication
-  date: "2021-07-13"
+  date: '2021-07-13'
+  link: https://doi.org/10.1007/978-1-0716-1534-8_3
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Ruffel S, Chaput V, Przybyla-Toscano J, Fayos I, Ibarra C, Moyano TC, Fizames\
+- id: doi:10.1101/822197
+  title: "Ruffel S, Chaput V, Przybyla-Toscano J, Fayos I, Ibarra C, Moyano TC, Fizames\
     \ C, Tillard P, O\u2019Brien JA, Guti\xE9rrez RA, Gojon A, Lejay L. (2021). Genome\
     \ wide analysis in response to N and C identifies new regulators for root AtNRT2\
     \ transporters. Plant Phys. 0: 1-19."
-  id: "doi:10.1101/822197"
-  link: https://doi.org/10.1101/822197
+  authors:
+  - Sandrine Ruffel
+  - Valentin Chaput
+  - Jonathan Przybyla-Toscano
+  - Ian Fayos
+  - Catalina Ibarra
+  - Tomas Moyano
+  - "C\xE9cile Fizames"
+  - Pascal Tillard
+  - "Jose Antonio O\u2019Brien"
+  - "Rodrigo A. Guti\xE9rrez"
+  - Alain Gojon
+  - Laurence Lejay
   publisher: Scientific publication
-  date: "2019-10-30"
+  date: '2019-10-30'
+  link: https://doi.org/10.1101/822197
   date_precision: day
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -1081,81 +1173,59 @@
   - Claudio Latorre
   - Gloria M. Coruzzi
   - "Rodrigo A. Guti\xE9rrez"
-  id: "doi:10.1073/pnas.2101177118"
-  link: https://doi.org/10.1073/pnas.2101177118
   publisher: Scientific publication
-  date: "2021-11-01"
+  date: '2021-11-01'
+  link: https://doi.org/10.1073/pnas.2101177118
   date_precision: month
-  date_source: "Crossref published-online"
-  link: https://doi.org/10.1073/pnas.2101177118
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Z\xFA\xF1iga L, Andrade JC, F\xE1brega FA, Orihuela PA, Vel\xE1quez EV,\
-    \ Vidal EA, Guti\xE9rrez RA, Morales P G\xF3mez-Silva B, and Croxatto HB (2021).\
-    \ Mating induces early transcriptional response in the rat endosalpinx: The Role\
-    \ of TNF and RA. Reproduction. 161, 43-59."
-  id: "doi:10.1530/rep-20-0190"
-  link: https://doi.org/10.1530/rep-20-0190
-  publisher: Scientific publication
-  date: "2021-01-01"
-  date_precision: day
-  date_source: "Crossref published-online"
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- title: "P\xE9rez-Palma E, Bustos BI, Lal D, Buch S, Azocar L, Toliat MR, Lieb W,\
-    \ Franke A, Hinz S, Burmeister G, von Sh\xF6nfels W, Schafmayer C, Ahnert P, V\xF6\
-    lzke H, V\xF6lker U, Homuth G, Lerch MM, Puschel K, Guti\xE9rrez RA, Hampe J,\
-    \ N\xFCrnberg P, Miquel JF, De Ferrari GV. Copy number variants in lipid metabolism\
-    \ genes are associated with gallstones disease in men. Eur J Hum Genet. 2020 Feb;28(2):264-273."
-  id: "doi:10.1038/s41431-019-0501-7"
-  link: https://doi.org/10.1038/s41431-019-0501-7
-  image: papers/doi-10.1038_s41431-019-0501-7.png
-  buttons:
-  - type: external
-    text: Download PDF
-    link: papers/doi-10.1038_s41431-019-0501-7.pdf
-  pdf_source: https://www.nature.com/articles/s41431-019-0501-7.pdf
-  pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2019-09-04"
-  date_precision: day
-  date_source: "Crossref published-online"
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- title: "Herrera-V\xE1squez A, Fonseca A, Moyano T, Ugalde J, Lamig L, Seguel A,\
-    \ Guti\xE9rrez RA, Salinas P, Vidal E, and Holuigue L (2020). TGA class II transcription\
-    \ factors are essential to restrict oxidative stress in response to UV-B stress\
-    \ in Arabidopsis. J Exp Bot. 2021 Feb 27;72(5)."
-  id: "doi:10.1093/jxb/eraa534"
-  link: https://doi.org/10.1093/jxb/eraa534
-  publisher: Scientific publication
-  date: "2020-11-14"
-  date_precision: day
-  date_source: "Crossref published-online"
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- title: "Carrasco-Puga G, D\xEDaz FP, Soto DC, Hern\xE1ndez-Castro C, Contreras-L\xF3\
+- id: doi:10.1111/ecog.05100
+  title: "Carrasco-Puga G, D\xEDaz FP, Soto DC, Hern\xE1ndez-Castro C, Contreras-L\xF3\
     pez O, Maldonado A, Latorre C and Guti\xE9rrez RA (2020). Revealing hidden plant\
     \ diversity in arid environments. Ecography. 44: 98\u2013111"
-  id: "doi:10.1111/ecog.05100"
-  link: https://doi.org/10.1111/ecog.05100
+  authors:
+  - "Gabriela Carrasco\u2010Puga"
+  - "Francisca P. D\xEDaz"
+  - Daniela C. Soto
+  - "Catalina Hern\xE1ndez\u2010Castro"
+  - "Orlando Contreras\u2010L\xF3pez"
+  - Antonio Maldonado
+  - Claudio Latorre
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2020-10-11"
+  date: '2020-10-11'
+  link: https://doi.org/10.1111/ecog.05100
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Wozniak A, Cerda A, Ibarra-Henriquez C, Sebastian V, Armijo G, Lamig L,\
+- id: doi:10.1101/2020.05.07.083048
+  title: "Wozniak A, Cerda A, Ibarra-Henriquez C, Sebastian V, Armijo G, Lamig L,\
     \ Miranda C, Lagos M, Solari S, Guzm\xE1n AM, Quiroga T, Hitschfeld S, Riveras\
     \ E, Ferres M, Guti\xE9rrez RA, Garc\xEDa P (2020). A simple RNA preparation method\
     \ for SARS-CoV-2 detection by RT-qPCR. Sci Reps. 10, 16608."
-  id: "doi:10.1101/2020.05.07.083048"
+  authors:
+  - Aniela Wozniak
+  - Ariel Cerda
+  - Catalina Ibarra-Henriquez
+  - Valentina Sebastian
+  - Grace Armijo
+  - Liliana Lamig
+  - Carolina Miranda
+  - Marcela Lagos
+  - Sandra Solari
+  - "Ana Mar\xEDa Guzm\xE1n"
+  - Teresa Quiroga
+  - Susan Hitschfeld
+  - Eleodoro Riveras
+  - Marcela Ferres
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Patricia Garc\xEDa"
+  publisher: Scientific publication
+  date: '2020-05-07'
   link: https://doi.org/10.1101/2020.05.07.083048
   image: papers/doi-10.1101_2020.05.07.083048.png
   buttons:
@@ -1164,68 +1234,111 @@
     link: papers/doi-10.1101_2020.05.07.083048.pdf
   pdf_source: https://www.nature.com/articles/s41598-020-73616-w.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2020-05-07"
   date_precision: day
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vidal EA, \xC1lvarez JM, Araus V, Riveras E, Brooks MD, Krouk G, Ruffel\
+- id: doi:10.1105/tpc.19.00748
+  title: "Vidal EA, \xC1lvarez JM, Araus V, Riveras E, Brooks MD, Krouk G, Ruffel\
     \ S, Lejay L, Crawford NM, Coruzzi GM and Guti\xE9rrez RA (2020). Nitrogen 2020:\
     \ Thirty years, from nitrate transport to signaling networks. Plant Cell. 32,\
     \ 2094-2119."
-  id: "doi:10.1105/tpc.19.00748"
-  link: https://doi.org/10.1105/tpc.19.00748
+  authors:
+  - Elena A. Vidal
+  - "Jos\xE9 M. Alvarez"
+  - Viviana Araus
+  - Eleodoro Riveras
+  - Matthew D. Brooks
+  - Gabriel Krouk
+  - Sandrine Ruffel
+  - Laurence Lejay
+  - Nigel M. Crawford
+  - Gloria M. Coruzzi
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2020-03-13"
+  date: '2020-03-13'
+  link: https://doi.org/10.1105/tpc.19.00748
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Moreno S, Canales J, Hong L, Robinson D, Roeder A and Guti\xE9rrez RA. (2020).\
+- id: doi:10.1016/j.cub.2020.03.036
+  title: "Moreno S, Canales J, Hong L, Robinson D, Roeder A and Guti\xE9rrez RA. (2020).\
     \ Nitrate-defines shoot size through compensatory roles for endoreplication and\
     \ cell division in Arabidopsis thaliana. Curr Biol. 8, 1988-2000."
-  id: "doi:10.1016/j.cub.2020.03.036"
-  link: https://doi.org/10.1016/j.cub.2020.03.036
+  authors:
+  - "Sebasti\xE1n Moreno"
+  - Javier Canales
+  - Lilan Hong
+  - Dana Robinson
+  - Adrienne H.K. Roeder
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2020-06-01"
+  date: '2020-06-01'
+  link: https://doi.org/10.1016/j.cub.2020.03.036
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Swift J, Alvarez J, Araus A, Guti\xE9rrez RA, Coruzzi GM. (2020). Nutrient\
+- id: doi:10.1073/pnas.1918619117
+  title: "Swift J, Alvarez J, Araus A, Guti\xE9rrez RA, Coruzzi GM. (2020). Nutrient\
     \ dose-responsive transcriptome changes driven by Michaelis\u2013Menten kinetics\
     \ underlie plant growth rates. Proc. Natl. Acad. Sci. 117, 12531-12540."
-  id: "doi:10.1073/pnas.1918619117"
-  link: https://doi.org/10.1073/pnas.1918619117
+  authors:
+  - Joseph Swift
+  - Jose M. Alvarez
+  - Viviana Araus
+  - "Rodrigo A. Guti\xE9rrez"
+  - Gloria M. Coruzzi
   publisher: Scientific publication
-  date: "2020-05-15"
+  date: '2020-05-15'
+  link: https://doi.org/10.1073/pnas.1918619117
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Naulin PA, Armijo G, Vega A, Tamayo KP, Gras DE, de la Cruz J, and Guti\xE9\
+- id: doi:10.1093/pcp/pcz199
+  title: "Naulin PA, Armijo G, Vega A, Tamayo KP, Gras DE, de la Cruz J, and Guti\xE9\
     rrez RA (2020) Nitrate induction of primary root growth requires cytokinin signaling\
     \ in Arabidopsis thaliana. Plant Cell Phys. 61, 342-352."
-  id: "doi:10.1093/pcp/pcz199"
-  link: https://doi.org/10.1093/pcp/pcz199
+  authors:
+  - Pamela A Naulin
+  - Grace I Armijo
+  - Andrea S Vega
+  - Karem P Tamayo
+  - Diana E Gras
+  - Javiera de la Cruz
+  - "Rodrigo A Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2019-11-15"
+  date: '2019-11-15'
+  link: https://doi.org/10.1093/pcp/pcz199
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Riveras E, Azocar L, Moyano T, Ocares M, Molina H, Romero D., Roa JC, Valbuena\
+- id: doi:10.1038/s41598-020-64137-7
+  title: "Riveras E, Azocar L, Moyano T, Ocares M, Molina H, Romero D., Roa JC, Valbuena\
     \ JR, Guti\xE9rrez RA, Miquel JF (2020). Transcriptomic profiles reveal differences\
     \ in zinc metabolism, inflammation, and tight junction proteins in duodenum from\
     \ cholesterol gallstone subjects. Sci Reps. 10, 7448."
-  id: "doi:10.1038/s41598-020-64137-7"
+  authors:
+  - Eleodoro Riveras
+  - Lorena Azocar
+  - Tomas C. Moyano
+  - Marcia Ocares
+  - Hector Molina
+  - Diego Romero
+  - Juan C. Roa
+  - Jose R. Valbuena
+  - "Rodrigo A. Guti\xE9rrez"
+  - Juan F. Miquel
+  publisher: Scientific publication
+  date: '2020-05-04'
   link: https://doi.org/10.1038/s41598-020-64137-7
   image: papers/doi-10.1038_s41598-020-64137-7.png
   buttons:
@@ -1234,19 +1347,27 @@
     link: papers/doi-10.1038_s41598-020-64137-7.pdf
   pdf_source: https://www.nature.com/articles/s41598-020-64137-7.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2020-05-04"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Cruz N, M\xE9ndez T, Ramos P, Urbina D, Vega A, Guti\xE9rrez RA, Moya-Le\xF3\
+- id: doi:10.1038/s41598-019-55276-7
+  title: "Cruz N, M\xE9ndez T, Ramos P, Urbina D, Vega A, Guti\xE9rrez RA, Moya-Le\xF3\
     n MA, Herrera R (2019). Induction of PrMADS10 on the lower side of bent pine tree\
     \ stems: potential role in modifying plant cell wall properties and wood anatomy.\
     \ Sci Reps. 9, 18981."
-  id: "doi:10.1038/s41598-019-55276-7"
+  authors:
+  - "Nicol\xE1s Cruz"
+  - "Tamara M\xE9ndez"
+  - Patricio Ramos
+  - Daniela Urbina
+  - Andrea Vega
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Mar\xEDa A. Moya-Le\xF3n"
+  - "Ra\xFAl Herrera"
+  publisher: Scientific publication
+  date: '2019-12-12'
   link: https://doi.org/10.1038/s41598-019-55276-7
   image: papers/doi-10.1038_s41598-019-55276-7.png
   buttons:
@@ -1255,56 +1376,93 @@
     link: papers/doi-10.1038_s41598-019-55276-7.pdf
   pdf_source: https://www.nature.com/articles/s41598-019-55276-7.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2019-12-12"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Wood JR, D\xEDaz FP, Latorre C, Wilmshurst JM, Burge OR, Guti\xE9rrez RA\
+- id: doi:10.1016/j.quascirev.2019.106031
+  title: "Wood JR, D\xEDaz FP, Latorre C, Wilmshurst JM, Burge OR, Guti\xE9rrez RA\
     \ (2019). Ancient parasite DNA from late Quaternary Atacama Desert rodent middens.\
     \ Quat. Sci Rev. 226, 106031."
-  id: "doi:10.1016/j.quascirev.2019.106031"
-  link: https://doi.org/10.1016/j.quascirev.2019.106031
+  authors:
+  - Jamie R. Wood
+  - "Francisca P. D\xEDaz"
+  - Claudio Latorre
+  - Janet M. Wilmshurst
+  - Olivia R. Burge
+  - "Francisco Gonz\xE1lez"
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2019-12-01"
+  date: '2019-12-01'
+  link: https://doi.org/10.1016/j.quascirev.2019.106031
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Alvarez JM, Moyano TC, Zhang T, Gras DE, Herrera FJ, Araus V, O\u2019Brien\
+- id: doi:10.1016/j.molp.2019.09.002
+  title: "Alvarez JM, Moyano TC, Zhang T, Gras DE, Herrera FJ, Araus V, O\u2019Brien\
     \ JA, Jiang J and Guti\xE9rrez RA (2019). Local changes in chromatin accessibility\
     \ and transcriptional networks underlying the nitrate response in Arabidopsis\
     \ roots. Mol. Plant. 12, 1545-1560."
-  id: "doi:10.1016/j.molp.2019.09.002"
-  link: https://doi.org/10.1016/j.molp.2019.09.002
+  authors:
+  - "Jos\xE9 M. Alvarez"
+  - "Tom\xE1s C. Moyano"
+  - Tao Zhang
+  - Diana E. Gras
+  - Francisco J. Herrera
+  - Viviana Araus
+  - "Jos\xE9 A. O'Brien"
+  - Laura Carrillo
+  - "Joaqu\xEDn Medina"
+  - "Jes\xFAs Vicente-Carbajosa"
+  - Jiming Jiang
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2019-12-01"
+  date: '2019-12-01'
+  link: https://doi.org/10.1016/j.molp.2019.09.002
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vega A., O\u2019Brien J and Guti\xE9rrez RA (2019). Nitrate and hormonal\
+- id: doi:10.1016/j.pbi.2019.10.001
+  title: "Vega A., O\u2019Brien J and Guti\xE9rrez RA (2019). Nitrate and hormonal\
     \ signaling cross-talk for plant growth and development. Curr Op Plant Biol. 52,\
     \ 155-163."
-  id: "doi:10.1016/j.pbi.2019.10.001"
-  link: https://doi.org/10.1016/j.pbi.2019.10.001
+  authors:
+  - Andrea Vega
+  - "Jos\xE9 Antonio O\u2019Brien"
+  - "Rodrigo A Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2019-12-01"
+  date: '2019-12-01'
+  link: https://doi.org/10.1016/j.pbi.2019.10.001
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Brooks MD, Cirrone J, Pasquino AV, Swift J, Alvarez JM, Mittal S, Juang\
+- id: doi:10.1038/s41467-019-09522-1
+  title: "Brooks MD, Cirrone J, Pasquino AV, Swift J, Alvarez JM, Mittal S, Juang\
     \ CL, Varala K, Guti\xE9rrez RA, Krouk G, Shasha D, Coruzzi GM (2019). Network\
     \ walking charts transcriptional pathways for dynamic nitrogen signaling using\
     \ validated and predicted genome-wide interactions. Nature Comm. 10, 1569."
-  id: "doi:10.1038/s41467-019-09522-1"
+  authors:
+  - Matthew D. Brooks
+  - Jacopo Cirrone
+  - Angelo V. Pasquino
+  - Jose M. Alvarez
+  - Joseph Swift
+  - Shipra Mittal
+  - Che-Lun Juang
+  - Kranthi Varala
+  - "Rodrigo A. Guti\xE9rrez"
+  - Gabriel Krouk
+  - Dennis Shasha
+  - Gloria M. Coruzzi
+  publisher: Scientific publication
+  date: '2019-04-05'
   link: https://doi.org/10.1038/s41467-019-09522-1
   image: papers/doi-10.1038_s41467-019-09522-1.png
   buttons:
@@ -1313,18 +1471,28 @@
     link: papers/doi-10.1038_s41467-019-09522-1.pdf
   pdf_source: https://www.nature.com/articles/s41467-019-09522-1.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2019-04-05"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Pollak B, Cerda A, Delmans M, \xC1lamos S, Moyano T, West A, Guti\xE9rrez\
+- id: doi:10.1111/nph.15625
+  title: "Pollak B, Cerda A, Delmans M, \xC1lamos S, Moyano T, West A, Guti\xE9rrez\
     \ RA, Patron N, Federici F and Haseloff J (2019). Loop Assembly: a simple and\
     \ open system for recursive fabrication of DNA circuits. New Phytol. 222, 628-640."
-  id: "doi:10.1111/nph.15625"
+  authors:
+  - Bernardo Pollak
+  - Ariel Cerda
+  - Mihails Delmans
+  - "Sim\xF3n \xC1lamos"
+  - "Tom\xE1s Moyano"
+  - Anthony West
+  - "Rodrigo A. Guti\xE9rrez"
+  - Nicola J. Patron
+  - "Fern\xE1n Federici"
+  - Jim Haseloff
+  publisher: Scientific publication
+  date: '2019-02-25'
   link: https://doi.org/10.1111/nph.15625
   image: papers/doi-10.1111_nph.15625.png
   buttons:
@@ -1333,23 +1501,29 @@
     link: papers/doi-10.1111_nph.15625.pdf
   pdf_source: https://www.biorxiv.org/content/biorxiv/early/2018/01/18/247593.full.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2019-02-25"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "D\xEDaz F, D\xEDaz F, Latorre C, Carrasco G, Wood J, Wilmshurst J, Soto\
+- id: doi:10.1111/gcb.14583
+  title: "D\xEDaz F, D\xEDaz F, Latorre C, Carrasco G, Wood J, Wilmshurst J, Soto\
     \ D, Cole T, Guti\xE9rrez RA (2019). Multiscale climate change impacts on plant\
     \ diversity in the Atacama Desert. Global Change Biol. 25, 1733-1745."
-  id: "doi:10.1111/gcb.14583"
-  link: https://doi.org/10.1111/gcb.14583
+  authors:
+  - "Francisca P. D\xEDaz"
+  - Claudio Latorre
+  - "Gabriela Carrasco\u2010Puga"
+  - Jamie R. Wood
+  - Janet M. Wilmshurst
+  - Daniela C. Soto
+  - Theresa L. Cole
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2019-02-25"
+  date: '2019-02-25'
+  link: https://doi.org/10.1111/gcb.14583
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -1362,35 +1536,73 @@
   - Daniel Valenzuela
   - Manuel Tironi
   - "Rodrigo A. Guti\xE9rrez"
-  id: "doi:10.1080/25729861.2019.1611992"
-  link: https://doi.org/10.1080/25729861.2019.1611992
   publisher: Scientific publication
-  date: "2019-06-21"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2019-06-21'
   link: https://doi.org/10.1080/25729861.2019.1611992
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Falter-Braun P, Brady S, Guti\xE9rrez RA, Coruzzi GM, Krouk G (2019). iPlant\
+- id: doi:10.1016/j.molp.2019.05.005
+  title: "Falter-Braun P, Brady S, Guti\xE9rrez RA, Coruzzi GM, Krouk G (2019). iPlant\
     \ Systems Biology (iPSB): An International Network Hub in the Plant Community.\
     \ Mol. Plant 12, 727-730. [Editorial]"
-  id: "doi:10.1016/j.molp.2019.05.005"
-  link: https://doi.org/10.1016/j.molp.2019.05.005
+  authors:
+  - Pascal Falter-Braun
+  - Siobhan Brady
+  - "Rodrigo A. Guti\xE9rrez"
+  - Gloria M. Coruzzi
+  - Gabriel Krouk
   publisher: Scientific publication
-  date: "2019-06-01"
+  date: '2019-06-01'
+  link: https://doi.org/10.1016/j.molp.2019.05.005
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vidal EA, Moyano TC, Moraga C, Bustos BI, P\xE9rez-Palma E, Montecinos A,\
+- id: doi:10.1038/s41598-019-39391-z
+  title: "Vidal EA, Moyano TC, Moraga C, Bustos BI, P\xE9rez-Palma E, Montecinos A,\
     \ Az\xF3car L, Vidal M, Di Genova A, Allende ML, Cambiazo V, Gonz\xE1lez M, Hodar\
     \ C, Montecino M, Mu\xF1oz C, Orellana A, Reyes-Jara A, Travisany D, Veloso F,\
     \ Vizoso P, Moraga M, Eyheramendy S, Maass A, De Ferrari GV, Miquel JF, Guti\xE9\
     rrez RA (2019). Whole Genome Sequence, Variant Discovery and Annotation in Mapuche-Huilliche\
     \ Native South Americans. Sci Reps. 9, 2132."
-  id: "doi:10.1038/s41598-019-39391-z"
+  authors:
+  - Elena A. Vidal
+  - "Tom\xE1s C. Moyano"
+  - "Bernab\xE9 I. Bustos"
+  - "Eduardo P\xE9rez-Palma"
+  - Carol Moraga
+  - Eleodoro Riveras
+  - Alejandro Montecinos
+  - "Lorena Az\xF3car"
+  - Daniela C. Soto
+  - Mabel Vidal
+  - Alex Di Genova
+  - Klaus Puschel
+  - "Peter N\xFCrnberg"
+  - Stephan Buch
+  - Jochen Hampe
+  - Miguel L. Allende
+  - "Ver\xF3nica Cambiazo"
+  - "Mauricio Gonz\xE1lez"
+  - Christian Hodar
+  - "Mart\xEDn Montecino"
+  - "Claudia Mu\xF1oz-Espinoza"
+  - Ariel Orellana
+  - "Ang\xE9lica Reyes-Jara"
+  - Dante Travisany
+  - Paula Vizoso
+  - Mauricio Moraga
+  - Susana Eyheramendy
+  - Alejandro Maass
+  - Giancarlo V. De Ferrari
+  - Juan Francisco Miquel
+  - "Rodrigo A. Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2019-02-14'
   link: https://doi.org/10.1038/s41598-019-39391-z
   image: papers/doi-10.1038_s41598-019-39391-z.png
   buttons:
@@ -1399,19 +1611,27 @@
     link: papers/doi-10.1038_s41598-019-39391-z.pdf
   pdf_source: https://www.nature.com/articles/s41598-019-39391-z.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2019-02-14"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Fern\xE1ndez-G\xF3mez B, Maldonado J, Mandakovic D, Gaete A, Gutierrez RA,\
+- id: doi:10.1038/s41598-018-37776-0
+  title: "Fern\xE1ndez-G\xF3mez B, Maldonado J, Mandakovic D, Gaete A, Gutierrez RA,\
     \ Maass A, Cambiazo V, Gonz\xE1lez M (2019). Bacterial communities associated\
     \ to Chilean altiplanic native plants from the Andean grasslands soils. Sci Reps.\
     \ 9, 1042."
-  id: "doi:10.1038/s41598-018-37776-0"
+  authors:
+  - "Beatriz Fern\xE1ndez-G\xF3mez"
+  - Jonathan Maldonado
+  - Dinka Mandakovic
+  - Alexis Gaete
+  - "Rodrigo A. Guti\xE9rrez"
+  - Alejandro Maass
+  - Veronica Cambiazo
+  - "Mauricio Gonz\xE1lez"
+  publisher: Scientific publication
+  date: '2019-01-31'
   link: https://doi.org/10.1038/s41598-018-37776-0
   image: papers/doi-10.1038_s41598-018-37776-0.png
   buttons:
@@ -1420,21 +1640,47 @@
     link: papers/doi-10.1038_s41598-018-37776-0.pdf
   pdf_source: https://www.nature.com/articles/s41598-018-37776-0.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2019-01-31"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Bustos BI, P\xE9rez-Palma E, Buch S, Az\xF3car L, Riveras E, Ugarte GD,\
+- id: doi:10.1038/s41598-018-35852-z
+  title: "Bustos BI, P\xE9rez-Palma E, Buch S, Az\xF3car L, Riveras E, Ugarte GD,\
     \ Toliat M, N\xFCrnberg P, Lieb W, Franke A, Hinz S, Burmeister G, Sch\xF6nfels\
     \ W, Schafmayer C, V\xF6lzke H, V\xF6lker U, Homuth G, Lerch MM, Santos JL, Puschel\
     \ K, Bambs C, Guti\xE9rrez RA, Hampe J, De Ferrari GV and Juan Francisco Miquel\
     \ (2019). Variants in ABCG8 and TRAF3 genes confer risk for gallstone disease\
     \ in admixed Latinos with Mapuche Native American ancestry. Sci Reps. 9, 772."
-  id: "doi:10.1038/s41598-018-35852-z"
+  authors:
+  - "Bernab\xE9 I. Bustos"
+  - "Eduardo P\xE9rez-Palma"
+  - Stephan Buch
+  - "Lorena Az\xF3car"
+  - Eleodoro Riveras
+  - Giorgia D. Ugarte
+  - Mohammad Toliat
+  - "Peter N\xFCrnberg"
+  - Wolfgang Lieb
+  - Andre Franke
+  - Sebastian Hinz
+  - Greta Burmeister
+  - "Witigo von Sch\xF6nfels"
+  - Clemens Schafmayer
+  - "Henry V\xF6lzke"
+  - "Uwe V\xF6lker"
+  - Georg Homuth
+  - Markus M. Lerch
+  - "Jos\xE9 Luis Santos"
+  - Klaus Puschel
+  - Claudia Bambs
+  - Juan Carlos Roa
+  - "Rodrigo A. Guti\xE9rrez"
+  - Jochen Hampe
+  - Giancarlo V. De Ferrari
+  - Juan Francisco Miquel
+  publisher: Scientific publication
+  date: '2019-01-28'
   link: https://doi.org/10.1038/s41598-018-35852-z
   image: papers/doi-10.1038_s41598-018-35852-z.png
   buttons:
@@ -1443,18 +1689,24 @@
     link: papers/doi-10.1038_s41598-018-35852-z.pdf
   pdf_source: https://www.nature.com/articles/s41598-018-35852-z.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2019-01-28"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Wood JR, Diaz FP. Latorre C, Burge OR, Wilmhurst JM, Guti\xE9rrez RA (2018).\
+- id: doi:10.1038/s41598-018-35299-2
+  title: "Wood JR, Diaz FP. Latorre C, Burge OR, Wilmhurst JM, Guti\xE9rrez RA (2018).\
     \ Plant pathogen responses to Late Pleistocene and Holocene climate change in\
     \ the central Atacama Desert, Chile. Sci Reps. 8, 1708."
-  id: "doi:10.1038/s41598-018-35299-2"
+  authors:
+  - Jamie R. Wood
+  - "Francisca P. D\xEDaz"
+  - Claudio Latorre
+  - Janet M. Wilmshurst
+  - Olivia R. Burge
+  - "Rodrigo A. Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2018-11-21'
   link: https://doi.org/10.1038/s41598-018-35299-2
   image: papers/doi-10.1038_s41598-018-35299-2.png
   buttons:
@@ -1463,33 +1715,57 @@
     link: papers/doi-10.1038_s41598-018-35299-2.pdf
   pdf_source: https://www.nature.com/articles/s41598-018-35299-2.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2018-11-21"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Fredes I, Moreno S, D\xEDaz F and Guti\xE9rrez RA (2018). Nitrate signaling\
+- id: doi:10.1016/j.pbi.2018.10.004
+  title: "Fredes I, Moreno S, D\xEDaz F and Guti\xE9rrez RA (2018). Nitrate signaling\
     \ and the control of Arabidopsis growth and development. Curr Op Plant Biol. 47,\
     \ 112-118."
-  id: "doi:10.1016/j.pbi.2018.10.004"
-  link: https://doi.org/10.1016/j.pbi.2018.10.004
+  authors:
+  - Isabel Fredes
+  - "Sebasti\xE1n Moreno"
+  - "Francisca P D\xEDaz"
+  - "Rodrigo A Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2019-02-01"
+  date: '2019-02-01'
+  link: https://doi.org/10.1016/j.pbi.2018.10.004
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Mandakovic D, Rojas C, Maldonado J, Latorre M, Travisany D, Delage E, Bihou\xE9\
+- id: doi:10.1038/s41598-018-23931-0
+  title: "Mandakovic D, Rojas C, Maldonado J, Latorre M, Travisany D, Delage E, Bihou\xE9\
     e A, Jean G, D\xEDaz FP, Fern\xE1ndez-G\xF3mez B, Cabrera P, Gaete A, Latorre\
     \ C, Guti\xE9rrez R, Maass A, Cambiazo V, Navarrete S, Eveillard A and Gonz\xE1\
     lez M (2018). Structure and co-occurrence patterns in microbial communities under\
     \ acute environmental stress reveal ecological factors fostering resilience. Sci\
     \ Reps. 8, 5875."
-  id: "doi:10.1038/s41598-018-23931-0"
+  authors:
+  - Dinka Mandakovic
+  - Claudia Rojas
+  - Jonathan Maldonado
+  - Mauricio Latorre
+  - Dante Travisany
+  - Erwan Delage
+  - "Audrey Bihou\xE9e"
+  - "G\xE9raldine Jean"
+  - "Francisca P. D\xEDaz"
+  - "Beatriz Fern\xE1ndez-G\xF3mez"
+  - Pablo Cabrera
+  - Alexis Gaete
+  - Claudio Latorre
+  - "Rodrigo A. Guti\xE9rrez"
+  - Alejandro Maass
+  - "Ver\xF3nica Cambiazo"
+  - Sergio A. Navarrete
+  - Damien Eveillard
+  - "Mauricio Gonz\xE1lez"
+  publisher: Scientific publication
+  date: '2018-04-12'
   link: https://doi.org/10.1038/s41598-018-23931-0
   image: papers/doi-10.1038_s41598-018-23931-0.png
   buttons:
@@ -1498,19 +1774,29 @@
     link: papers/doi-10.1038_s41598-018-23931-0.pdf
   pdf_source: https://www.nature.com/articles/s41598-018-23931-0.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2018-04-12"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Gras DE, Vidal EA, Undurraga SF, Riveras E, Moreno S, Dom\xEDnguez-Figueroa\
+- id: doi:10.1093/jxb/erx423
+  title: "Gras DE, Vidal EA, Undurraga SF, Riveras E, Moreno S, Dom\xEDnguez-Figueroa\
     \ J, Alabadi D, Bl\xE1zquez M, Medina J, and Guti\xE9rrez RA (2018). SMZ/SNZ and\
     \ gibberellin signaling are required for nitrate-elicited delay of flowering time\
     \ in Arabidopsis thaliana. J Exp Bot. 69, 619-631."
-  id: "doi:10.1093/jxb/erx423"
+  authors:
+  - Diana E Gras
+  - Elena A Vidal
+  - Soledad F Undurraga
+  - Eleodoro Riveras
+  - "Sebasti\xE1n Moreno"
+  - "Jos\xE9 Dominguez-Figueroa"
+  - David Alabadi
+  - "Miguel A Bl\xE1zquez"
+  - "Joaqu\xEDn Medina"
+  - "Rodrigo A Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2017-12-22'
   link: https://doi.org/10.1093/jxb/erx423
   image: papers/doi-10.1093_jxb_erx423.png
   buttons:
@@ -1519,32 +1805,51 @@
     link: papers/doi-10.1093_jxb_erx423.pdf
   pdf_source: https://digital.csic.es/bitstream/10261/290854/1/11b5fcc1-3616-4fdd-a768-e9807658aed9.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2017-12-22"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Contreras-L\xF3pez O, Moyano TC, Soto DC, Guti\xE9rrez RA (2018). Step-by-Step\
+- id: doi:10.1007/978-1-4939-7747-5_21
+  title: "Contreras-L\xF3pez O, Moyano TC, Soto DC, Guti\xE9rrez RA (2018). Step-by-Step\
     \ Construction of Gene Co-expression Networks from High-Throughput Arabidopsis\
     \ RNA Sequencing Data. Methods Mol Biol 1761, 275-301."
-  id: "doi:10.1007/978-1-4939-7747-5_21"
-  link: https://doi.org/10.1007/978-1-4939-7747-5_21
+  authors:
+  - "Orlando Contreras-L\xF3pez"
+  - "Tom\xE1s C. Moyano"
+  - Daniela C. Soto
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2018-03-11"
+  date: '2018-03-11'
+  link: https://doi.org/10.1007/978-1-4939-7747-5_21
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Mu\xF1oz-Llanos M, Garc\xEDa-P\xE9rez MA, Xu X, Tejos-Bravo M, Vidal EA,\
+- id: doi:10.3389/fnmol.2018.00251
+  title: "Mu\xF1oz-Llanos M, Garc\xEDa-P\xE9rez MA, Xu X, Tejos-Bravo M, Vidal EA,\
     \ Moyano TC, Guti\xE9rrez RA, Aguayo FI, Pacheco A, Garc\xEDa-Rojo G, Aliaga E,\
     \ Rojas PS, Cidlowski JA and FiedleR JL. (2018). MicroRNA Profiling and Bioinformatics\
     \ Target Analysis in Dorsal Hippocampus of Chronically Stressed Rats: Relevance\
     \ to Depression Pathophysiology. Fr Mol Neuroscience. 11, 251."
-  id: "doi:10.3389/fnmol.2018.00251"
+  authors:
+  - "Mauricio Mu\xF1oz-Llanos"
+  - "Mar\xEDa A. Garc\xEDa-P\xE9rez"
+  - Xiaojiang Xu
+  - Macarena Tejos-Bravo
+  - Elena A. Vidal
+  - "Tom\xE1s C. Moyano"
+  - "Rodrigo A. Guti\xE9rrez"
+  - Felipe I. Aguayo
+  - "An\xEDbal Pacheco"
+  - "Gonzalo Garc\xEDa-Rojo"
+  - Esteban Aliaga
+  - Paulina S. Rojas
+  - John A. Cidlowski
+  - Jenny L. Fiedler
+  publisher: Scientific publication
+  date: '2018-08-06'
   link: https://doi.org/10.3389/fnmol.2018.00251
   image: papers/doi-10.3389_fnmol.2018.00251.png
   buttons:
@@ -1553,15 +1858,13 @@
     link: papers/doi-10.3389_fnmol.2018.00251.pdf
   pdf_source: https://www.frontiersin.org/articles/10.3389/fnmol.2018.00251/pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2018-08-06"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Friesner J, Assmann SM, Bastow R, Bailey-Serres J, Beynon J, Brendel V,\
+- id: doi:10.1104/pp.17.01490
+  title: "Friesner J, Assmann SM, Bastow R, Bailey-Serres J, Beynon J, Brendel V,\
     \ Buell CR, Bucksch A, Busch W, Demura T, Dinneny JR, Doherty CJ, Eveland AL,\
     \ Falter-Braun P, Gehan MA, Gonzales M, Grotewold E, Guti\xE9rrez RA, Kramer U,\
     \ Krouk G, Ma S, Markelz RJC, Megraw M, Meyers BC, Murray JAH, Provart NJ, Rhee\
@@ -1569,66 +1872,142 @@
     \ R, Ware D, Wilkins O, Williams C, Brady SM. (2017). The next generation of training\
     \ for Arabidopsis researchers: Bioinformatics and quantitative biology. Plant\
     \ Physiol. 175, 1499-1509"
-  id: "doi:10.1104/pp.17.01490"
-  link: https://doi.org/10.1104/pp.17.01490
+  authors:
+  - Joanna Friesner
+  - Sarah M. Assmann
+  - Ruth Bastow
+  - Julia Bailey-Serres
+  - Jim Beynon
+  - Volker Brendel
+  - C. Robin Buell
+  - Alexander Bucksch
+  - Wolfgang Busch
+  - Taku Demura
+  - Jose R. Dinneny
+  - Colleen J. Doherty
+  - Andrea L. Eveland
+  - Pascal Falter-Braun
+  - Malia A. Gehan
+  - Michael Gonzales
+  - Erich Grotewold
+  - Rodrigo Gutierrez
+  - Ute Kramer
+  - Gabriel Krouk
+  - Shisong Ma
+  - R.J. Cody Markelz
+  - Molly Megraw
+  - Blake C. Meyers
+  - James A.H. Murray
+  - Nicholas J. Provart
+  - Sue Rhee
+  - Roger Smith
+  - Edgar P. Spalding
+  - Crispin Taylor
+  - Tracy K. Teal
+  - Keiko U. Torii
+  - Chris Town
+  - Matthew Vaughn
+  - Richard Vierstra
+  - Doreen Ware
+  - Olivia Wilkins
+  - Cranos Williams
+  - Siobhan M. Brady
   publisher: Scientific publication
-  date: "2017-12-05"
+  date: '2017-12-05'
+  link: https://doi.org/10.1104/pp.17.01490
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Canales JC, Contreras-L\xF3pez O, \xC1lvarez JM, Guti\xE9rrez RA (2017).\
+- id: doi:10.1111/tpj.13656
+  title: "Canales JC, Contreras-L\xF3pez O, \xC1lvarez JM, Guti\xE9rrez RA (2017).\
     \ Nitrate induction of root hair density is mediated by TGA1/TGA4 and CPC transcription\
     \ factors in Arabidopsis thaliana. Plant J. 92, 305-316"
-  id: "doi:10.1111/tpj.13656"
+  authors:
+  - Javier Canales
+  - "Orlando Contreras\u2010L\xF3pez"
+  - "Jos\xE9 M. \xC1lvarez"
+  - "Rodrigo A. Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2017-08-31'
   link: https://doi.org/10.1111/tpj.13656
-  publisher: Scientific publication
-  date: "2017-08-31"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Armijo G and Guti\xE9rrez RA (2017). Emerging players in the nitrate signaling\
+- id: doi:10.1016/j.molp.2017.07.006
+  title: "Armijo G and Guti\xE9rrez RA (2017). Emerging players in the nitrate signaling\
     \ pathway. Mol Plant. 10, 1019-1022."
-  id: "doi:10.1016/j.molp.2017.07.006"
+  authors:
+  - Grace Armijo
+  - "Rodrigo A. Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2017-08-01'
   link: https://doi.org/10.1016/j.molp.2017.07.006
-  publisher: Scientific publication
-  date: "2017-08-01"
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Undurraga S, Ibarra C, Fredes I, Guti\xE9rrez RA (2017). Nitrate signaling\
+- id: doi:10.1093/jxb/erx041
+  title: "Undurraga S, Ibarra C, Fredes I, Guti\xE9rrez RA (2017). Nitrate signaling\
     \ and early responses in Arabidopsis roots. J Exp Bot. 68, 2541-2551."
-  id: "doi:10.1093/jxb/erx041"
-  link: https://doi.org/10.1093/jxb/erx041
+  authors:
+  - Soledad F Undurraga
+  - "Catalina Ibarra-Henr\xEDquez"
+  - Isabel Fredes
+  - "Jos\xE9 Miguel \xC1lvarez"
+  - "Rodrigo A Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2017-03-28"
+  date: '2017-03-28'
+  link: https://doi.org/10.1093/jxb/erx041
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Puelma T, Araus V, Canales J, Vidal EA, Soto A, Guti\xE9rrez RA (2017).\
+- id: doi:10.1093/bioinformatics/btw702
+  title: "Puelma T, Araus V, Canales J, Vidal EA, Soto A, Guti\xE9rrez RA (2017).\
     \ GENIUS: A web server to predict local gene networks and key genes for biological\
     \ functions of interest. Bioinformatics. 33, 760-761."
-  id: "doi:10.1093/bioinformatics/btw702"
-  link: https://doi.org/10.1093/bioinformatics/btw702
+  authors:
+  - Tomas Puelma
+  - Viviana Araus
+  - Javier Canales
+  - Elena A Vidal
+  - Juan M Cabello
+  - Alvaro Soto
+  - "Rodrigo A Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2016-11-30"
+  date: '2016-11-30'
+  link: https://doi.org/10.1093/bioinformatics/btw702
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Pastenes L, Valdivieso C, Di Genova A, Travisany D, Montecino M, Orellana\
+- id: doi:10.1038/s41598-017-01982-z
+  title: "Pastenes L, Valdivieso C, Di Genova A, Travisany D, Montecino M, Orellana\
     \ A, Gonz\xE1lez M, Guti\xE9rrez RA, Allende M, Maass A and Mendez M (2017). Global\
     \ gene expression analysis provides insight into local adaptation to geothermal\
     \ streams in tadpoles of the Andean toad Rhinella spinulosa. Sci Rep. 7, 1966."
-  id: "doi:10.1038/s41598-017-01982-z"
+  authors:
+  - Luis Pastenes
+  - Camilo Valdivieso
+  - Alex Di Genova
+  - Dante Travisany
+  - Andrew Hart
+  - "Mart\xEDn Montecino"
+  - Ariel Orellana
+  - Mauricio Gonzalez
+  - "Rodrigo A. Guti\xE9rrez"
+  - Miguel L. Allende
+  - Alejandro Maass
+  - "Marco A. M\xE9ndez"
+  publisher: Scientific publication
+  date: '2017-05-16'
   link: https://doi.org/10.1038/s41598-017-01982-z
   image: papers/doi-10.1038_s41598-017-01982-z.png
   buttons:
@@ -1637,69 +2016,121 @@
     link: papers/doi-10.1038_s41598-017-01982-z.pdf
   pdf_source: https://www.nature.com/articles/s41598-017-01982-z.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2017-05-16"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Yazaki J, Galli M, Kim AY, Nito K, Aleman F, Chang KN, Carvunis A-R, Quan\
+- id: doi:10.1073/pnas.1603229113
+  title: "Yazaki J, Galli M, Kim AY, Nito K, Aleman F, Chang KN, Carvunis A-R, Quan\
     \ R, Nguyen H, Song L, Alvarez JM, Carol S-S, Rakmachandran N, Altmann S, Guti\xE9\
     rrez RA, Hill DE, Schroeder JI, Chor J, LaBaer J, Vidal M, Braun P, and Ecker\
     \ JR (2016). Mapping transcription factor interactome networks using halo tag\
     \ protein arrays. Proc. Natl. Acad. Sci. USA. 113, E4238\u2013E4247."
-  id: "doi:10.1073/pnas.1603229113"
-  link: https://doi.org/10.1073/pnas.1603229113
+  authors:
+  - Junshi Yazaki
+  - Mary Galli
+  - Alice Y. Kim
+  - Kazumasa Nito
+  - Fernando Aleman
+  - Katherine N. Chang
+  - Anne-Ruxandra Carvunis
+  - Rosa Quan
+  - Hien Nguyen
+  - Liang Song
+  - "Jos\xE9 M. Alvarez"
+  - Shao-shan Carol Huang
+  - Huaming Chen
+  - Niroshan Ramachandran
+  - Stefan Altmann
+  - "Rodrigo A. Guti\xE9rrez"
+  - David E. Hill
+  - Julian I. Schroeder
+  - Joanne Chory
+  - Joshua LaBaer
+  - Marc Vidal
+  - Pascal Braun
+  - Joseph R. Ecker
   publisher: Scientific publication
-  date: "2016-06-29"
+  date: '2016-06-29'
+  link: https://doi.org/10.1073/pnas.1603229113
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "O\u2019Brien J, Vega A, Bouguyon E, Krouk G, Gojon A, Coruzzi GM and Guti\xE9\
+- id: doi:10.1016/j.molp.2016.05.004
+  title: "O\u2019Brien J, Vega A, Bouguyon E, Krouk G, Gojon A, Coruzzi GM and Guti\xE9\
     rrez RA (2016). Nitrate transport, sensing and responses in plants. Molecular\
     \ Plant. 9, 837-856."
-  id: "doi:10.1016/j.molp.2016.05.004"
-  link: https://doi.org/10.1016/j.molp.2016.05.004
+  authors:
+  - "Jos\xE9\_A. O'Brien"
+  - Andrea Vega
+  - "El\xE9onore Bouguyon"
+  - Gabriel Krouk
+  - Alain Gojon
+  - Gloria Coruzzi
+  - "Rodrigo\_A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2016-06-01"
+  date: '2016-06-01'
+  link: https://doi.org/10.1016/j.molp.2016.05.004
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Araus V, Vidal EA, Puelma T, Alamos S, Mieulet D, Guiderdoni E, Guti\xE9\
+- id: doi:10.1104/pp.15.01731
+  title: "Araus V, Vidal EA, Puelma T, Alamos S, Mieulet D, Guiderdoni E, Guti\xE9\
     rrez RA (2016). Members of BTB Gene Family of Scaffold Proteins Suppress Nitrate\
     \ Uptake and Nitrogen Use Efficiency. Plant Physiol. 171, 1523-1532"
-  id: "doi:10.1104/pp.15.01731"
-  link: https://doi.org/10.1104/pp.15.01731
+  authors:
+  - Viviana Araus
+  - Elena A Vidal
+  - Tomas Puelma
+  - Simon Alamos
+  - Delphine Mieulet
+  - Emmanuel Guiderdoni
+  - "Rodrigo A Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2016-04-27"
+  date: '2016-04-27'
+  link: https://doi.org/10.1104/pp.15.01731
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "P\xE9rez-Delgado CM, Moyano TC, Garc\xEDa-Calder\xF3n M, Canales J, Guti\xE9\
+- id: doi:10.1093/jxb/erw170
+  title: "P\xE9rez-Delgado CM, Moyano TC, Garc\xEDa-Calder\xF3n M, Canales J, Guti\xE9\
     rrez RA, M\xE1rquez AJ, Betti (2016). Use of transcriptomics and co-expression\
     \ networks to analyze the interconnections between nitrogen assimilation and photorespiratory\
     \ metabolism. J Exp Bot. 67, 3095-3108."
-  id: "doi:10.1093/jxb/erw170"
-  link: https://doi.org/10.1093/jxb/erw170
+  authors:
+  - "Carmen M. P\xE9rez-Delgado"
+  - "Tom\xE1s C. Moyano"
+  - "Margarita Garc\xEDa-Calder\xF3n"
+  - Javier Canales
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Antonio J. M\xE1rquez"
+  - Marco Betti
   publisher: Scientific publication
-  date: "2016-04-25"
+  date: '2016-04-25'
+  link: https://doi.org/10.1093/jxb/erw170
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Diaz F, Frugone M, Guti\xE9rrez RA and Latorre C (2016). Nitrogen cycling\
+- id: doi:10.1038/srep22226
+  title: "Diaz F, Frugone M, Guti\xE9rrez RA and Latorre C (2016). Nitrogen cycling\
     \ in an extreme hyperarid environment inferred from \u03B415N analyses of plants,\
     \ soils and herbivore diet. Sci Reports. 6, 22226."
-  id: "doi:10.1038/srep22226"
+  authors:
+  - "Francisca P. D\xEDaz"
+  - "Mat\xEDas Frugone"
+  - "Rodrigo A. Guti\xE9rrez"
+  - Claudio Latorre
+  publisher: Scientific publication
+  date: '2016-03-09'
   link: https://doi.org/10.1038/srep22226
   image: papers/doi-10.1038_srep22226.png
   buttons:
@@ -1708,24 +2139,36 @@
     link: papers/doi-10.1038_srep22226.pdf
   pdf_source: https://www.nature.com/articles/srep22226.pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2016-03-09"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Acu\xF1a M, Mart\xEDnez P, Moraga C, Moraga M, Hunter B, Nuernberg P, Guti\xE9\
+- id: doi:10.1038/ejhg.2015.89
+  title: "Acu\xF1a M, Mart\xEDnez P, Moraga C, Moraga M, Hunter B, Nuernberg P, Guti\xE9\
     rrez RA, Gonz\xE1lez M, Schuchman E, Santos JL, Miquel JF, Mabe1 P, Zanlungo S\
     \ (2016). Epidemiological, Clinical and Biochemical Characterization of the A359D\
     \ SMPD1 Mutation Causing Niemann-Pick Disease Type B. Eur J Human Gen. 24, 208-213"
-  id: "doi:10.1038/ejhg.2015.89"
-  link: https://doi.org/10.1038/ejhg.2015.89
+  authors:
+  - "Mariana Acu\xF1a"
+  - "Pablo Mart\xEDnez"
+  - Carol Moraga
+  - Xingxuan He
+  - Mauricio Moraga
+  - Bessie Hunter
+  - Peter Nuernberg
+  - "Rodrigo A Guti\xE9rrez"
+  - "Mauricio Gonz\xE1lez"
+  - Edward H Schuchman
+  - "Jos\xE9 Luis Santos"
+  - Juan Francisco Miquel
+  - Paulina Mabe
+  - Silvana Zanlungo
   publisher: Scientific publication
-  date: "2015-04-29"
+  date: '2015-04-29'
+  link: https://doi.org/10.1038/ejhg.2015.89
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -1742,21 +2185,30 @@
   - "I. Acu\xF1a"
   - "R. A. Guti\xE9rrez"
   - I. M. Rosales
-  id: "doi:10.1094/PDIS-07-15-0816-PDN"
-  link: https://doi.org/10.1094/pdis-07-15-0816-pdn
   publisher: Scientific publication
-  date: "2016-06-01"
+  date: '2016-06-01'
+  link: https://doi.org/10.1094/pdis-07-15-0816-pdn
   date_precision: month
-  date_source: "Crossref published"
-  link: https://doi.org/10.1094/PDIS-07-15-0816-PDN
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vega A, Canessa P, Hoppe G, Retamal I, Moyano TC, Canales J, Guti\xE9rrez\
+- id: doi:10.3389/fpls.2015.00911
+  title: "Vega A, Canessa P, Hoppe G, Retamal I, Moyano TC, Canales J, Guti\xE9rrez\
     \ RA, Rubilar J (2015). Transcriptome analysis reveals regulatory networks underlying\
     \ differential susceptibility to Botrytis cinerea in response to nitrogen availability\
     \ in Solanum lycopersicum. Fr Plant Science. 6, 911"
-  id: "doi:10.3389/fpls.2015.00911"
+  authors:
+  - Andrea Vega
+  - Paulo Canessa
+  - Gustavo Hoppe
+  - Ignacio Retamal
+  - Tomas C. Moyano
+  - Javier Canales
+  - "Rodrigo A. Guti\xE9rrez"
+  - Joselyn Rubilar
+  publisher: Scientific publication
+  date: '2015-11-04'
   link: https://doi.org/10.3389/fpls.2015.00911
   image: papers/doi-10.3389_fpls.2015.00911.png
   buttons:
@@ -1765,78 +2217,113 @@
     link: papers/doi-10.3389_fpls.2015.00911.pdf
   pdf_source: https://www.frontiersin.org/articles/10.3389/fpls.2015.00911/pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2015-11-04"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Riveras E, Alvarez, JM, Oses C, Vidal EA, Vega A and Guti\xE9rrez RA (2015).\
+- id: doi:10.1104/pp.15.00961
+  title: "Riveras E, Alvarez, JM, Oses C, Vidal EA, Vega A and Guti\xE9rrez RA (2015).\
     \ The calcium ion is a second messenger in the nitrate signaling pathway of Arabidopsis\
     \ thaliana. Plant Phys. 169, 1397-1404."
-  id: "doi:10.1104/pp.15.00961"
-  link: https://doi.org/10.1104/pp.15.00961
+  authors:
+  - Eleodoro Riveras
+  - "Jos\xE9 M. Alvarez"
+  - Elena A. Vidal
+  - Carolina Oses
+  - Andrea Vega
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2015-08-24"
+  date: '2015-08-24'
+  link: https://doi.org/10.1104/pp.15.00961
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vidal EA, Alvarez JM, Canales J, and Guti\xE9rrez RA (2015). Transcriptional\
+- id: doi:10.1016/j.pbi.2015.06.010
+  title: "Vidal EA, Alvarez JM, Canales J, and Guti\xE9rrez RA (2015). Transcriptional\
     \ networks in the nitrate response of Arabidopsis thaliana. Curr Op Plant Biol.\
     \ 27, 125-132."
-  id: "doi:10.1016/j.pbi.2015.06.010"
+  authors:
+  - Elena A Vidal
+  - "Jos\xE9 M \xC1lvarez"
+  - "Tom\xE1s C Moyano"
+  - "Rodrigo A Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2015-10-01'
   link: https://doi.org/10.1016/j.pbi.2015.06.010
-  publisher: Scientific publication
-  date: "2015-10-01"
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vidal EA, Moyano TC, Canales J, and Guti\xE9rrez RA (2014). Nitrogen control\
+- id: doi:10.1093/jxb/eru326
+  title: "Vidal EA, Moyano TC, Canales J, and Guti\xE9rrez RA (2014). Nitrogen control\
     \ of developmental phase transitions in Arabidopsis thaliana. J Exp Bot. 65, 5611-5618."
-  id: "doi:10.1093/jxb/eru326"
-  link: https://doi.org/10.1093/jxb/eru326
+  authors:
+  - E. A. Vidal
+  - T. C. Moyano
+  - J. Canales
+  - R. A. Gutierrez
   publisher: Scientific publication
-  date: "2014-08-16"
+  date: '2014-08-16'
+  link: https://doi.org/10.1093/jxb/eru326
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Alvarez JM, Riveras E, Gras DE, Vidal EA, Contreras-L\xF3pez O, Tamayo KP,\
+- id: doi:10.1111/tpj.12618
+  title: "Alvarez JM, Riveras E, Gras DE, Vidal EA, Contreras-L\xF3pez O, Tamayo KP,\
     \ G\xF3mez I, Ruffel S, Lejay L, Jordana X, Guti\xE9rrez RA. (2014). TGA1 and\
     \ TGA4 transcription factors modulate nitrate response in Arabidopsis thaliana\
     \ roots. Plant J. 80, 1-13 [Featured Article - Cover of October]"
-  id: "doi:10.1111/tpj.12618"
-  link: https://doi.org/10.1111/tpj.12618
+  authors:
+  - "Jos\xE9 M. Alvarez"
+  - Eleodoro Riveras
+  - Elena A. Vidal
+  - Diana E. Gras
+  - "Orlando Contreras\u2010L\xF3pez"
+  - Karem P. Tamayo
+  - Felipe Aceituno
+  - "Isabel G\xF3mez"
+  - Sandrine Ruffel
+  - Laurence Lejay
+  - Xavier Jordana
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2014-08-25"
+  date: '2014-08-25'
+  link: https://doi.org/10.1111/tpj.12618
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vidal EA, Alvarez JM, and Guti\xE9rrez RA (2014). Nitrate regulation of\
+- id: doi:10.4161/psb.28501
+  title: "Vidal EA, Alvarez JM, and Guti\xE9rrez RA (2014). Nitrate regulation of\
     \ AFB3 and NAC4 gene expression depends on NRT1.1 nitrate transport function.\
     \ Plant Signaling and Behavior. 9, e28501."
-  id: "doi:10.4161/psb.28501"
-  link: https://doi.org/10.4161/psb.28501
+  authors:
+  - Elena A Vidal
+  - "Jos\xE9 M \xC1lvarez"
+  - "Rodrigo A Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2014-04-22"
+  date: '2014-04-22'
+  link: https://doi.org/10.4161/psb.28501
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Canales J, Villarroel E, Guti\xE9rrez RA. (2014). Systems analysis of transcriptome\
+- id: doi:10.3389/fpls.2014.00215
+  title: "Canales J, Villarroel E, Guti\xE9rrez RA. (2014). Systems analysis of transcriptome\
     \ data provides new hypothesis about Arabidopsis root responses to nitrate treatments.\
     \ Frontiers in Plant Systems Biology. 5, 22."
-  id: "doi:10.3389/fpls.2014.00215"
+  authors:
+  - Wolfgang Schmidt
+  publisher: Scientific publication
+  date: '2014-05-19'
   link: https://doi.org/10.3389/fpls.2014.00215
   image: papers/doi-10.3389_fpls.2014.00215.png
   buttons:
@@ -1845,18 +2332,23 @@
     link: papers/doi-10.3389_fpls.2014.00215.pdf
   pdf_source: https://www.frontiersin.org/articles/10.3389/fpls.2014.00215/pdf
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2014-05-19"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Federici F, Rudge T, Pollak B, Haseloff J, Guti\xE9rrez RA (2013). Synthetic\
+- id: doi:10.4067/s0716-97602013000400010
+  title: "Federici F, Rudge T, Pollak B, Haseloff J, Guti\xE9rrez RA (2013). Synthetic\
     \ Biology: opportunities for Chilean bioindustry and education. Biological Res.\
     \ 46, 383-393."
-  id: "doi:10.4067/s0716-97602013000400010"
+  authors:
+  - "Fern\xE1n Federici"
+  - Timothy J Rudge
+  - Bernardo Pollak
+  - Jim Haseloff
+  - "Rodrigo A Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2013-01-01'
   link: https://doi.org/10.4067/s0716-97602013000400010
   image: papers/doi-10.4067_s0716-97602013000400010.png
   buttons:
@@ -1865,19 +2357,27 @@
     link: papers/doi-10.4067_s0716-97602013000400010.pdf
   pdf_source: http://www.scielo.cl/pdf/bres/v46n4/art10.pdf
   pdf_license: cc-by-nc
-
-  publisher: Scientific publication
-  date: "2013-01-01"
   date_precision: year
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vidal EA, Moyano TC, Krouk G, Katari MS, Tanurdzic M, McCombie R, Coruzzi\
+- id: doi:10.1186/1471-2164-14-701
+  title: "Vidal EA, Moyano TC, Krouk G, Katari MS, Tanurdzic M, McCombie R, Coruzzi\
     \ GM, Guti\xE9rrez RA (2013). Integrated RNA-seq and sRNA-seq analysis identifies\
     \ novel nitrate-responsive genes in Arabidopsis thaliana roots. BMC Genomics.\
     \ 14, 701-730."
-  id: "doi:10.1186/1471-2164-14-701"
+  authors:
+  - Elena A Vidal
+  - "Tom\xE1s C Moyano"
+  - Gabriel Krouk
+  - Manpreet S Katari
+  - Milos Tanurdzic
+  - W Richard McCombie
+  - Gloria M Coruzzi
+  - "Rodrigo A Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2013-10-11'
   link: https://doi.org/10.1186/1471-2164-14-701
   image: papers/doi-10.1186_1471-2164-14-701.png
   buttons:
@@ -1886,136 +2386,190 @@
     link: papers/doi-10.1186_1471-2164-14-701.pdf
   pdf_source: https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/1471-2164-14-701
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2013-10-11"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vidal, EA., Moyano, TC., Riveras, E., Contreras-Lopez, O. and Guti\xE9rrez,\
+- id: doi:10.1073/pnas.1310937110
+  title: "Vidal, EA., Moyano, TC., Riveras, E., Contreras-Lopez, O. and Guti\xE9rrez,\
     \ RA. (2013). Systems approaches map regulatory networks downstream of the auxin\
     \ receptor AFB3 in the nitrate response of Arabidopsis thaliana roots. Proc. Natl\
     \ Acad. Sci. USA. 110, 12840-12845."
-  id: "doi:10.1073/pnas.1310937110"
-  link: https://doi.org/10.1073/pnas.1310937110
+  authors:
+  - Elena A. Vidal
+  - "Tom\xE1s C. Moyano"
+  - Eleodoro Riveras
+  - "Orlando Contreras-L\xF3pez"
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2013-07-11"
+  date: '2013-07-11'
+  link: https://doi.org/10.1073/pnas.1310937110
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Z\xFA\xF1iga A., Poupin MJ, Donoso R, Ledger T., Guiliani N, Guti\xE9rrez\
+- id: doi:10.1094/mpmi-10-12-0241-r
+  title: "Z\xFA\xF1iga A., Poupin MJ, Donoso R, Ledger T., Guiliani N, Guti\xE9rrez\
     \ RA, Gonz\xE1lez B (2013). Quorum sensing and 3-indole acetic acid degradation\
     \ play a role in colonization and plant growth promotion of Arabidopsis thaliana\
     \ by Burkholderia phytofirmans PsJN. Mol Plant Micr Int 26, 546-553."
-  id: "doi:10.1094/mpmi-10-12-0241-r"
+  authors:
+  - "Ana Z\xFA\xF1iga"
+  - "Mar\xEDa Josefina Poupin"
+  - "Ra\xFAl Donoso"
+  - Thomas Ledger
+  - "Nicol\xE1s Guiliani"
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Bernardo Gonz\xE1lez"
+  publisher: Scientific publication
+  date: '2013-05-01'
   link: https://doi.org/10.1094/mpmi-10-12-0241-r
-  publisher: Scientific publication
-  date: "2013-05-01"
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guti\xE9rrez RA (2012). Systems Biology for Enhanced Plant Nitrogen Nutrition.\
+- id: doi:10.1126/science.1217620
+  title: "Guti\xE9rrez RA (2012). Systems Biology for Enhanced Plant Nitrogen Nutrition.\
     \ Science 336, 1673-1675."
-  id: "doi:10.1126/science.1217620"
-  link: https://doi.org/10.1126/science.1217620
+  authors:
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2012-06-29"
+  date: '2012-06-29'
+  link: https://doi.org/10.1126/science.1217620
   date_precision: day
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Puelma T, Guti\xE9rrez RA, Soto A (2012). Discriminative local subspaces\
+- id: doi:10.1093/bioinformatics/bts455
+  title: "Puelma T, Guti\xE9rrez RA, Soto A (2012). Discriminative local subspaces\
     \ in gene expression data for effective gene function prediction. Bioinformatics\
     \ 28, 2256-2264."
-  id: "doi:10.1093/bioinformatics/bts455"
+  authors:
+  - Tomas Puelma
+  - "Rodrigo A. Guti\xE9rrez"
+  - Alvaro Soto
+  publisher: Scientific publication
+  date: '2012-07-20'
   link: https://doi.org/10.1093/bioinformatics/bts455
-  publisher: Scientific publication
-  date: "2012-07-20"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Alvarez JM, Vidal EA, Guti\xE9rrez RA (2012). Integration of local and systemic\
+- id: doi:10.1016/j.pbi.2012.03.009
+  title: "Alvarez JM, Vidal EA, Guti\xE9rrez RA (2012). Integration of local and systemic\
     \ signaling pathways for plant N responses. Curr. Op. Plant Biol. 15, 185-191."
-  id: "doi:10.1016/j.pbi.2012.03.009"
-  link: https://doi.org/10.1016/j.pbi.2012.03.009
+  authors:
+  - "Jos\xE9 M Alvarez"
+  - Elena A Vidal
+  - "Rodrigo A Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2012-04-01"
+  date: '2012-04-01'
+  link: https://doi.org/10.1016/j.pbi.2012.03.009
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: 'The International Arabidopsis Informatics Consortium (2012). Taking the
+- id: doi:10.1105/tpc.112.100669
+  title: 'The International Arabidopsis Informatics Consortium (2012). Taking the
     next step: Building an Arabidopsis information portal. Plant Cell 24, 2248-2256.
     (R.A.G. - Secondary contributor).'
-  id: "doi:10.1105/tpc.112.100669"
-  link: https://doi.org/10.1105/tpc.112.100669
+  authors: []
   publisher: Scientific publication
-  date: "2012-06-29"
+  date: '2012-06-29'
+  link: https://doi.org/10.1105/tpc.112.100669
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Fuentes D, Meneses M, Nunes-Nesi A, Ara\xFAjo WL, Tapia R, G\xF3mez I, Holuigue\
+- id: doi:10.1104/pp.111.183939
+  title: "Fuentes D, Meneses M, Nunes-Nesi A, Ara\xFAjo WL, Tapia R, G\xF3mez I, Holuigue\
     \ L, Guti\xE9rrez RA, Fernie AR, Jordana X (2011). A Deficiency in the Flavoprotein\
     \ of Arabidopsis Mitochondrial Complex II Results in Elevated Photosynthesis and\
     \ Better Growth in Nitrogen-Limiting Conditions. Plant Physiology. 157, 1114-1127."
-  id: "doi:10.1104/pp.111.183939"
-  link: https://doi.org/10.1104/pp.111.183939
+  authors:
+  - Daniela Fuentes
+  - Marco Meneses
+  - Adriano Nunes-Nesi
+  - "Wagner L. Ara\xFAjo"
+  - Rodrigo Tapia
+  - "Isabel G\xF3mez"
+  - Loreto Holuigue
+  - "Rodrigo A. Guti\xE9rrez"
+  - Alisdair R. Fernie
+  - Xavier Jordana
   publisher: Scientific publication
-  date: "2011-09-15"
+  date: '2011-09-15'
+  link: https://doi.org/10.1104/pp.111.183939
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vega A, Guti\xE9rrez RA, Pe\xF1a-Neira A, Cramer GR, Arce-Johnson P (2011).\
+- id: doi:10.1007/s11103-011-9807-8
+  title: "Vega A, Guti\xE9rrez RA, Pe\xF1a-Neira A, Cramer GR, Arce-Johnson P (2011).\
     \ Compatible GLRaV-3 viral infections affect berry ripening decreasing sugar accumulation\
     \ and anthocyanin biosynthesis in Vitis vinifera. Plant Mol Biol. 77, 261-274."
-  id: "doi:10.1007/s11103-011-9807-8"
-  link: https://doi.org/10.1007/s11103-011-9807-8
+  authors:
+  - Andrea Vega
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Alvaro Pe\xF1a-Neira"
+  - Grant R. Cramer
+  - Patricio Arce-Johnson
   publisher: Scientific publication
-  date: "2011-07-24"
+  date: '2011-07-24'
+  link: https://doi.org/10.1007/s11103-011-9807-8
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Krouk G, Ruffel S, Guti\xE9rrez RA, Gojon A, Crawford NM, Coruzzi GM, Lacombe\
+- id: doi:10.1016/j.tplants.2011.02.004
+  title: "Krouk G, Ruffel S, Guti\xE9rrez RA, Gojon A, Crawford NM, Coruzzi GM, Lacombe\
     \ B (2011). A framework integrating plant growth with hormones and nutrients.\
     \ Trends in Plant Sciences 16, 178-182."
-  id: "doi:10.1016/j.tplants.2011.02.004"
-  link: https://doi.org/10.1016/j.tplants.2011.02.004
+  authors:
+  - Gabriel Krouk
+  - Sandrine Ruffel
+  - "Rodrigo A. Guti\xE9rrez"
+  - Alain Gojon
+  - Nigel M. Crawford
+  - Gloria M. Coruzzi
+  - "Beno\xEEt Lacombe"
   publisher: Scientific publication
-  date: "2011-04-01"
+  date: '2011-04-01'
+  link: https://doi.org/10.1016/j.tplants.2011.02.004
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Kraiser T, Gras DE, Guti\xE9rrez AG, Gonz\xE1lez B, Guti\xE9rrez RA (2011).\
+- id: doi:10.1093/jxb/erq425
+  title: "Kraiser T, Gras DE, Guti\xE9rrez AG, Gonz\xE1lez B, Guti\xE9rrez RA (2011).\
     \ From the molecular to the ecosystem level: A holistic view of nitrogen acquisition\
     \ in plants. J Exp Bot. 62, 1455-1466."
-  id: "doi:10.1093/jxb/erq425"
-  link: https://doi.org/10.1093/jxb/erq425
+  authors:
+  - T. Kraiser
+  - D. E. Gras
+  - A. G. Gutierrez
+  - B. Gonzalez
+  - R. A. Gutierrez
   publisher: Scientific publication
-  date: "2011-01-14"
+  date: '2011-01-14'
+  link: https://doi.org/10.1093/jxb/erq425
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Bastow R, Beynon J, Estelle M, Friesner J, Grotewold E, Lavagi I, Lindsey\
+- id: doi:10.1105/tpc.110.078519
+  title: "Bastow R, Beynon J, Estelle M, Friesner J, Grotewold E, Lavagi I, Lindsey\
     \ K, Meyers B, Provart N, Benfey P, Birney E, Braun P, Brendel V, Buell R, Caccamo\
     \ M, Carrington J, Cherry M, Ecker J, Eppig J, Forster M, Guti\xE9rrez R, Hilson\
     \ P, Huala E, Katari M, Kersey P, Kudla J, Ma H, Matsui M, Matthews K, May S,\
@@ -2024,23 +2578,26 @@
     \ Toyoda T, Vision T, Walsh S, Wang X, Ware D, Weckwerth W, Yang W. (2010). An\
     \ international bioinformatics infrastructure to underpine the Arabidopsis community.\
     \ Plant Cell 22, 2530-2536."
-  id: "doi:10.1105/tpc.110.078519"
-  link: https://doi.org/10.1105/tpc.110.078519
+  authors: []
   publisher: Scientific publication
-  date: "2010-08-20"
+  date: '2010-08-20'
+  link: https://doi.org/10.1105/tpc.110.078519
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "C. R. McClung and Guti\xE9rrez RA (2010). Network news: prime time for systems\
+- id: doi:10.1016/j.gde.2010.08.010
+  title: "C. R. McClung and Guti\xE9rrez RA (2010). Network news: prime time for systems\
     \ biology of the plant circadian clock. Curr Op Genet and Dev. 20, 588-598."
-  id: "doi:10.1016/j.gde.2010.08.010"
-  link: https://doi.org/10.1016/j.gde.2010.08.010
+  authors:
+  - C Robertson McClung
+  - "Rodrigo A Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2010-12-01"
+  date: '2010-12-01'
+  link: https://doi.org/10.1016/j.gde.2010.08.010
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2057,13 +2614,11 @@
   - Pamela J. Green
   - Gloria M. Coruzzi
   - "Rodrigo A. Guti\xE9rrez"
-  id: "doi:10.1073/pnas.0909571107"
-  link: https://doi.org/10.1073/pnas.0909571107
   publisher: Scientific publication
-  date: "2010-02-08"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2010-02-08'
   link: https://doi.org/10.1073/pnas.0909571107
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -2075,21 +2630,33 @@
   - Elena A. Vidal
   - Karem P. Tamayo
   - Rodrigo A. Gutierrez
-  id: "doi:10.1002/wsbm.87"
-  link: https://doi.org/10.1002/wsbm.87
   publisher: Scientific publication
-  date: "2010-03-24"
-  date_precision: day
-  date_source: "Crossref published-online"
+  date: '2010-03-24'
   link: https://doi.org/10.1002/wsbm.87
+  date_precision: day
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Das M, Reichman JR, Haberer G, Welzl G, Aceituno FF, Mader MT, Watrud LS,\
+- id: doi:10.1007/s11103-009-9590-y
+  title: "Das M, Reichman JR, Haberer G, Welzl G, Aceituno FF, Mader MT, Watrud LS,\
     \ Pfleeger TG, Guti\xE9rrez RA, Sch\xE4ffner AR, Olszyk DM (2010). A composite\
     \ transcriptional signature differentiates responses towards closely related herbicides\
     \ in Arabidopsis thaliana and Brassica napus. Plant Molecular Biology. 72, 545-556."
-  id: "doi:10.1007/s11103-009-9590-y"
+  authors:
+  - Malay Das
+  - Jay R. Reichman
+  - Georg Haberer
+  - Gerhard Welzl
+  - Felipe F. Aceituno
+  - Michael T. Mader
+  - Lidia S. Watrud
+  - Thomas G. Pfleeger
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Anton R. Sch\xE4ffner"
+  - David M. Olszyk
+  publisher: Scientific publication
+  date: '2009-12-31'
   link: https://doi.org/10.1007/s11103-009-9590-y
   image: papers/doi-10.1007_s11103-009-9590-y.png
   buttons:
@@ -2098,69 +2665,99 @@
     link: papers/doi-10.1007_s11103-009-9590-y.pdf
   pdf_source: https://link.springer.com/content/pdf/10.1007/s11103-009-9590-y.pdf
   pdf_license: cc-by-nc
-
-  publisher: Scientific publication
-  date: "2009-12-31"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Katari MS, Nowicki SD, Aceituno FF, Nero D, Kelfer J, Thompson LP, Cabello\
+- id: doi:10.1104/pp.109.147025
+  title: "Katari MS, Nowicki SD, Aceituno FF, Nero D, Kelfer J, Thompson LP, Cabello\
     \ JM, Davidson RS, Goldberg AP, Shasha DE, Coruzzi GM, and Guti\xE9rrez RA (2010).\
     \ VirtualPlant: A software platform to support systems biology research in the\
     \ post-genomic era. Plant Physiology 152, 500-515."
-  id: "doi:10.1104/pp.109.147025"
-  link: https://doi.org/10.1104/pp.109.147025
+  authors:
+  - Manpreet S. Katari
+  - Steve D. Nowicki
+  - Felipe F. Aceituno
+  - Damion Nero
+  - Jonathan Kelfer
+  - Lee Parnell Thompson
+  - Juan M. Cabello
+  - Rebecca S. Davidson
+  - Arthur P. Goldberg
+  - Dennis E. Shasha
+  - Gloria M. Coruzzi
+  - "Rodrigo A. Gutie\u0769rrez"
   publisher: Scientific publication
-  date: "2009-12-09"
+  date: '2009-12-09'
+  link: https://doi.org/10.1104/pp.109.147025
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Krouk G, Tranchina D, Lejay L, Cruikshank AA, Shasha DE, Coruzzi GM, and\
+- id: doi:10.1371/journal.pcbi.1000326
+  title: "Krouk G, Tranchina D, Lejay L, Cruikshank AA, Shasha DE, Coruzzi GM, and\
     \ Guti\xE9rrez RA. (2009). A systems approach uncovers restrictions for signal\
     \ interactions regulating genome-wide responses to nutritional cues in Arabidopsis.\
     \ PLoS Compt Biol. 5, 1-12."
-  id: "doi:10.1371/journal.pcbi.1000326"
-  link: https://doi.org/10.1371/journal.pcbi.1000326
+  authors:
+  - Gabriel Krouk
+  - Daniel Tranchina
+  - Laurence Lejay
+  - Alexis A. Cruikshank
+  - Dennis Shasha
+  - Gloria M. Coruzzi
+  - "Rodrigo A. Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2009-03-20"
+  date: '2009-03-20'
+  link: https://doi.org/10.1371/journal.pcbi.1000326
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Bender J, Benfey P, Bergmann D, Borevitz J, Coruzzi G, Dangl J, Dean C,\
+- id: doi:10.1093/mp/ssn040
+  title: "Bender J, Benfey P, Bergmann D, Borevitz J, Coruzzi G, Dangl J, Dean C,\
     \ Ecker J, Estelle M, Glazebrook J, Grant S, Guerinot ML, Guti\xE9rrez RA, Long\
     \ J, Nordborg M, Poethig S, Raikhel N, Schmitt J, Schnittger A, Vidal M (2008).\
     \ 2020 vision for biology: the role of plants in addressing grand challenges in\
     \ biology. Mol Plant 1, 561fe-563."
-  id: "doi:10.1093/mp/ssn040"
+  authors: []
+  publisher: Scientific publication
+  date: '2008-07-01'
   link: https://doi.org/10.1093/mp/ssn040
-  publisher: Scientific publication
-  date: "2008-07-01"
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Reforgiato D, Guti\xE9rrez RA, Shasha D (2008). GraphClust: A Method for\
+- id: doi:10.1142/s0219649208002093
+  title: "Reforgiato D, Guti\xE9rrez RA, Shasha D (2008). GraphClust: A Method for\
     \ Clustering Database of Graphs. J Information & Knowledge Management. 7, 231-241."
-  id: "doi:10.1142/s0219649208002093"
-  link: https://doi.org/10.1142/s0219649208002093
+  authors:
+  - Diego Reforgiato
+  - Rodrigo Gutierrez
+  - Dennis Shasha
   publisher: Scientific publication
-  date: "2008-12-01"
+  date: '2008-12-01'
+  link: https://doi.org/10.1142/s0219649208002093
   date_precision: month
-  date_source: "Official journal/DBLP issue metadata"
+  date_source: Official journal/DBLP issue metadata
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Aceituno FF, Moseyko N, Rhee SY, Guti\xE9rrez RA (2008). Gene body methylation\
+- id: doi:10.1186/1471-2164-9-438
+  title: "Aceituno FF, Moseyko N, Rhee SY, Guti\xE9rrez RA (2008). Gene body methylation\
     \ is a key factor for regulation of gene expression in Arabidopsis thaliana. BMC\
     \ Genomics. 9, 438."
-  id: "doi:10.1186/1471-2164-9-438"
+  authors:
+  - Felipe F Aceituno
+  - Nick Moseyko
+  - Seung Y Rhee
+  - "Rodrigo A Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2008-09-23'
   link: https://doi.org/10.1186/1471-2164-9-438
   image: papers/doi-10.1186_1471-2164-9-438.png
   buttons:
@@ -2169,42 +2766,57 @@
     link: papers/doi-10.1186_1471-2164-9-438.pdf
   pdf_source: https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/1471-2164-9-438
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2008-09-23"
   date_precision: day
-  date_source: "PubMed/official publisher"
+  date_source: PubMed/official publisher
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Vidal E, and Guti\xE9rrez RA (2008). A systems view of nitrogen nutrient\
+- id: doi:10.1016/j.pbi.2008.07.003
+  title: "Vidal E, and Guti\xE9rrez RA (2008). A systems view of nitrogen nutrient\
     \ and metabolite responses in Arabidopsis thaliana. Curr. Op. Plant Biol. 11,\
     \ 521-529."
-  id: "doi:10.1016/j.pbi.2008.07.003"
+  authors:
+  - Elena A Vidal
+  - "Rodrigo A Guti\xE9rrez"
+  publisher: Scientific publication
+  date: '2008-10-01'
   link: https://doi.org/10.1016/j.pbi.2008.07.003
-  publisher: Scientific publication
-  date: "2008-10-01"
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Holuigue L, Vielle-Calzada J-P, Guti\xE9rrez RA (2008). Crops in all shapes\
+- id: doi:10.1186/gb-2008-9-9-319
+  title: "Holuigue L, Vielle-Calzada J-P, Guti\xE9rrez RA (2008). Crops in all shapes\
     \ and sizes. Genome Biol. 9."
-  id: "doi:10.1186/gb-2008-9-9-319"
-  link: https://doi.org/10.1186/gb-2008-9-9-319
+  authors:
+  - Loreto Holuigue
+  - Jean-Philippe Vielle-Calzada
+  - "Rodrigo A Guti\xE9rrez"
   publisher: Scientific publication
-  date: "2008-01-01"
+  date: '2008-01-01'
+  link: https://doi.org/10.1186/gb-2008-9-9-319
   date_precision: year
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Thum K.E., Shin M.J., Guti\xE9rrez R.A., Mukherjee, I., Katari M., Nero,\
+- id: doi:10.1186/1752-0509-2-31
+  title: "Thum K.E., Shin M.J., Guti\xE9rrez R.A., Mukherjee, I., Katari M., Nero,\
     \ D., Shasha, D., and Coruzzi G.M. (2008). An integrated genetic, genomic and\
     \ systems approach defines gene networks regulated by the interaction of light\
     \ and carbon signaling pathways in Arabidopsis. BMC Syst. Biol. 2, 31."
-  id: "doi:10.1186/1752-0509-2-31"
+  authors:
+  - Karen E Thum
+  - Michael J Shin
+  - "Rodrigo A Guti\xE9rrez"
+  - Indrani Mukherjee
+  - Manpreet S Katari
+  - Damion Nero
+  - Dennis Shasha
+  - Gloria M Coruzzi
+  publisher: Scientific publication
+  date: '2008-04-04'
   link: https://doi.org/10.1186/1752-0509-2-31
   image: papers/doi-10.1186_1752-0509-2-31.png
   buttons:
@@ -2213,56 +2825,88 @@
     link: papers/doi-10.1186_1752-0509-2-31.pdf
   pdf_source: https://bmcsystbiol.biomedcentral.com/counter/pdf/10.1186/1752-0509-2-31
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2008-04-04"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guti\xE9rrez RA, Stokes TL, Thum K, Xu X, Obertello M, Katari MS, Tanurdzic\
+- id: doi:10.1073/pnas.0800211105
+  title: "Guti\xE9rrez RA, Stokes TL, Thum K, Xu X, Obertello M, Katari MS, Tanurdzic\
     \ M, Dean A, Nero DC, McClung CR and Coruzzi GM. (2008) Systems approach identifies\
     \ an organic nitrogen-responsive gene network that is regulated by the master\
     \ clock control gene CCA1. Proc. Natl. Acad. Sci. U.S.A. 105, 4939-4944."
-  id: "doi:10.1073/pnas.0800211105"
-  link: https://doi.org/10.1073/pnas.0800211105
+  authors:
+  - "Rodrigo A. Guti\xE9rrez"
+  - Trevor L. Stokes
+  - Karen Thum
+  - Xiaodong Xu
+  - Mariana Obertello
+  - Manpreet S. Katari
+  - Milos Tanurdzic
+  - Alexis Dean
+  - Damion C. Nero
+  - C. Robertson McClung
+  - Gloria M. Coruzzi
   publisher: Scientific publication
-  date: "2008-03-25"
+  date: '2008-03-25'
+  link: https://doi.org/10.1073/pnas.0800211105
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Gifford ML, Dean A, Guti\xE9rrez, RA, Coruzzi GM & Birnbaum, KD (2008).\
+- id: doi:10.1073/pnas.0709559105
+  title: "Gifford ML, Dean A, Guti\xE9rrez, RA, Coruzzi GM & Birnbaum, KD (2008).\
     \ Cell-specific nitrogen responses mediate developmental plasticity. Proc. Natl.\
     \ Acad. Sci. USA. 105, 803-808."
-  id: "doi:10.1073/pnas.0709559105"
-  link: https://doi.org/10.1073/pnas.0709559105
+  authors:
+  - Miriam L. Gifford
+  - Alexis Dean
+  - Rodrigo A. Gutierrez
+  - Gloria M. Coruzzi
+  - Kenneth D. Birnbaum
   publisher: Scientific publication
-  date: "2008-01-15"
+  date: '2008-01-15'
+  link: https://doi.org/10.1073/pnas.0709559105
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guti\xE9rrez R.A., Gifford M.L., Poultney C., Wang R., Shasha D.E., Coruzzi\
+- id: doi:10.1093/jxb/erm079
+  title: "Guti\xE9rrez R.A., Gifford M.L., Poultney C., Wang R., Shasha D.E., Coruzzi\
     \ G.M., Crawford N.M. (2007). Insights into the genomic nitrate response using\
     \ genetics and the Sungear software system J. Exp. Bot. 58, 2359-2367."
-  id: "doi:10.1093/jxb/erm079"
-  link: https://doi.org/10.1093/jxb/erm079
+  authors:
+  - R. A. Gutierrez
+  - M. L. Gifford
+  - C. Poultney
+  - R. Wang
+  - D. E. Shasha
+  - G. M. Coruzzi
+  - N. M. Crawford
   publisher: Scientific publication
-  date: "2007-03-09"
+  date: '2007-03-09'
+  link: https://doi.org/10.1093/jxb/erm079
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guti\xE9rrez R.A.*, Lejay L.*, Chiaromonte F., Shasha D.E. and Coruzzi G.M.\
+- id: doi:10.1186/gb-2007-8-1-r7
+  title: "Guti\xE9rrez R.A.*, Lejay L.*, Chiaromonte F., Shasha D.E. and Coruzzi G.M.\
     \ (2007). Qualitative network models and genome-wide expression data define carbon/nitrogen-responsive\
     \ molecular machines in Arabidopsis. Genome Biology 8, R7. *Both authors contributed\
     \ equally to this work."
-  id: "doi:10.1186/gb-2007-8-1-r7"
+  authors:
+  - "Rodrigo A Guti\xE9rrez"
+  - Laurence V Lejay
+  - Alexis Dean
+  - Francesca Chiaromonte
+  - Dennis E Shasha
+  - Gloria M Coruzzi
+  publisher: Scientific publication
+  date: '2007-01-11'
   link: https://doi.org/10.1186/gb-2007-8-1-r7
   image: papers/doi-10.1186_gb-2007-8-1-r7.png
   buttons:
@@ -2271,194 +2915,291 @@
     link: papers/doi-10.1186_gb-2007-8-1-r7.pdf
   pdf_source: https://genomebiology.biomedcentral.com/counter/pdf/10.1186/gb-2007-8-1-r7
   pdf_license: cc-by
-
-  publisher: Scientific publication
-  date: "2007-01-11"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Poultney CS, Guti\xE9rrez RA, Katari M, Gifford ML, Paley WB, Coruzzi GM\
+- id: doi:10.1093/bioinformatics/btl496
+  title: "Poultney CS, Guti\xE9rrez RA, Katari M, Gifford ML, Paley WB, Coruzzi GM\
     \ and Shasha DE (2007). Sungear: Interactive visualization and functional analysis\
     \ of genomic datasets. Bioinformatics 23, 259-261."
-  id: "doi:10.1093/bioinformatics/btl496"
-  link: https://doi.org/10.1093/bioinformatics/btl496
+  authors:
+  - Christopher S. Poultney
+  - "Rodrigo A. Guti\xE9rrez"
+  - Manpreet S. Katari
+  - Miriam L. Gifford
+  - W. Bradford Paley
+  - Gloria M. Coruzzi
+  - Dennis E. Shasha
   publisher: Scientific publication
-  date: "2006-10-02"
+  date: '2006-10-02'
+  link: https://doi.org/10.1093/bioinformatics/btl496
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Li C., Potuschak T., Col\xF3n-Carmona A., Guti\xE9rrez R.A., and Doerner\
+- id: doi:10.1073/pnas.0504039102
+  title: "Li C., Potuschak T., Col\xF3n-Carmona A., Guti\xE9rrez R.A., and Doerner\
     \ P. (2005). Arabidopsis TCP20 links regulation of growth and cell division control\
     \ pathways. Proc. Natl. Acad. Sci. USA 102, 12978-12983."
-  id: "doi:10.1073/pnas.0504039102"
-  link: https://doi.org/10.1073/pnas.0504039102
+  authors:
+  - Chengxia Li
+  - Thomas Potuschak
+  - "Ad\xE1n Col\xF3n-Carmona"
+  - "Rodrigo A. Guti\xE9rrez"
+  - Peter Doerner
   publisher: Scientific publication
-  date: "2005-08-25"
+  date: '2005-08-25'
+  link: https://doi.org/10.1073/pnas.0504039102
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Lidder, P.M.*, Guti\xE9rrez, R.A.*, Salome, P, McClung, R., and Green, P.J.\
+- id: doi:10.1104/pp.105.060368
+  title: "Lidder, P.M.*, Guti\xE9rrez, R.A.*, Salome, P, McClung, R., and Green, P.J.\
     \ (2005). Circadian control of mRNA stability: Association with DST-mediated mRNA\
     \ decay. Plant Phys. 138, 2374-2385 *Both authors contributed equally to this\
     \ work."
-  id: "doi:10.1104/pp.105.060368"
+  authors:
+  - Preetmoninder Lidder
+  - "Rodrigo A. Gutie\u0301rrez"
+  - "Patrice A. Salome\u0301"
+  - C. Robertson McClung
+  - Pamela J. Green
+  publisher: Scientific publication
+  date: '2005-07-29'
   link: https://doi.org/10.1104/pp.105.060368
-  publisher: Scientific publication
-  date: "2005-07-29"
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guti\xE9rrez R.A., Shasha D.E., and Coruzzi G.M. (2005). Systems biology\
+- id: doi:10.1104/pp.104.900150
+  title: "Guti\xE9rrez R.A., Shasha D.E., and Coruzzi G.M. (2005). Systems biology\
     \ for the virtual plant. Plant Phys. 138, 550-554"
-  id: "doi:10.1104/pp.104.900150"
-  link: https://doi.org/10.1104/pp.104.900150
+  authors:
+  - "Rodrigo A. Gutie\u0301rrez"
+  - Dennis E. Shasha
+  - Gloria M. Coruzzi
   publisher: Scientific publication
-  date: "2005-06-13"
+  date: '2005-06-13'
+  link: https://doi.org/10.1104/pp.104.900150
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Wang R., Tischner R., Guti\xE9rrez R.A., Hoffman M., Xing X., Chen M., Coruzzi\
+- id: doi:10.1104/pp.104.044610
+  title: "Wang R., Tischner R., Guti\xE9rrez R.A., Hoffman M., Xing X., Chen M., Coruzzi\
     \ G. and Crawford N.C. (2004). Genomic analysis of the nitrate response using\
     \ a nitrate reductase-null mutant of Arabidopsis. Plant Phys. 136, 2512-22."
-  id: "doi:10.1104/pp.104.044610"
-  link: https://doi.org/10.1104/pp.104.044610
+  authors:
+  - Rongchen Wang
+  - Rudolf Tischner
+  - "Rodrigo A. Gutie\u0301rrez"
+  - Maren Hoffman
+  - Xiujuan Xing
+  - Mingsheng Chen
+  - Gloria Coruzzi
+  - Nigel M. Crawford
   publisher: Scientific publication
-  date: "2004-09-16"
+  date: '2004-09-16'
+  link: https://doi.org/10.1104/pp.104.044610
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guti\xE9rrez R.A.*, Larson M.D., and Wilkerson C. (2004). The Plant-Specific\
+- id: doi:10.1104/pp.104.043687
+  title: "Guti\xE9rrez R.A.*, Larson M.D., and Wilkerson C. (2004). The Plant-Specific\
     \ Database: classification of Arabidopsis proteins based on their phylogenetic\
     \ profile. Plant Phys. 135, 1888-1892. *Corresponding author. Editorial comment:\
     \ http://www.plantphysiol.org/cgi/content/full/135/4/2038"
-  id: "doi:10.1104/pp.104.043687"
-  link: https://doi.org/10.1104/pp.104.043687
+  authors:
+  - "Rodrigo A. Gutie\u0301rrez"
+  - Matthew D. Larson
+  - Curtis Wilkerson
   publisher: Scientific publication
-  date: "2004-08-23"
+  date: '2004-08-23'
+  link: https://doi.org/10.1104/pp.104.043687
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guti\xE9rrez R.A.*, Green P.J., Keegstra K., and Ohlrogge J.B. (2004). Phylogenetic\
+- id: doi:10.1186/gb-2004-5-8-r53
+  title: "Guti\xE9rrez R.A.*, Green P.J., Keegstra K., and Ohlrogge J.B. (2004). Phylogenetic\
     \ profiling of the Arabidopsis thaliana proteome: What proteins distinguish plants\
     \ from other organisms? Genome Biol. 5, R53. *Corresponding author."
-  id: "doi:10.1186/gb-2004-5-8-r53"
-  link: https://doi.org/10.1186/gb-2004-5-8-r53
+  authors:
+  - "Rodrigo A Guti\xE9rrez"
+  - Pamela J Green
+  - Kenneth Keegstra
+  - John B Ohlrogge
   publisher: Scientific publication
-  date: "2004-07-15"
+  date: '2004-07-15'
+  link: https://doi.org/10.1186/gb-2004-5-8-r53
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guti\xE9rrez R.A., Ewing R.M., Cherry J.M., and Green P.J. (2002). Identification\
+- id: doi:10.1073/pnas.152204099
+  title: "Guti\xE9rrez R.A., Ewing R.M., Cherry J.M., and Green P.J. (2002). Identification\
     \ of unstable transcripts in Arabidopsis by cDNA microarray analysis: rapid decay\
     \ is associated with a group of touch- and specific clock-controlled genes. Proc.\
     \ Natl. Acad. Sci. U.S.A. 99: 11513-11518."
-  id: "doi:10.1073/pnas.152204099"
-  link: https://doi.org/10.1073/pnas.152204099
+  authors:
+  - "Rodrigo A. Guti\xE9rrez"
+  - Rob M. Ewing
+  - J. Michael Cherry
+  - Pamela J. Green
   publisher: Scientific publication
-  date: "2002-08-07"
+  date: '2002-08-07'
+  link: https://doi.org/10.1073/pnas.152204099
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Ghosh D., Sawicki M., Lala P., Erman M., Pangborn W., Eyzaguirre J., Guti\xE9\
+- id: doi:10.1074/jbc.m008831200
+  title: "Ghosh D., Sawicki M., Lala P., Erman M., Pangborn W., Eyzaguirre J., Guti\xE9\
     rrez R.A., Jornvall H., and Thiel, D.J. (2001) Multiple conformations of catalytic\
     \ serine and histidine in acetyl xylan esterase at 0.90 \xC5. J. Biol. Chem. 276:11159-11166."
-  id: "doi:10.1074/jbc.m008831200"
-  link: https://doi.org/10.1074/jbc.m008831200
+  authors:
+  - Debashis Ghosh
+  - Mark Sawicki
+  - Puloma Lala
+  - Mary Erman
+  - Walter Pangborn
+  - Jaime Eyzaguirre
+  - "Rodrigo Guti\xE9rrez"
+  - "Hans J\xF6rnvall"
+  - Daniel J. Thiel
   publisher: Scientific publication
-  date: "2001-04-01"
+  date: '2001-04-01'
+  link: https://doi.org/10.1074/jbc.m008831200
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guti\xE9rrez R.A., MacIntosh G.C., and Green P.J. (1999). Current perspectives\
+- id: doi:10.1016/s1360-1385(99)01484-3
+  title: "Guti\xE9rrez R.A., MacIntosh G.C., and Green P.J. (1999). Current perspectives\
     \ on mRNA stability in plants: multiple levels and mechanisms of control. Trends\
     \ Plant Sci 4:429-438."
-  id: "doi:10.1016/s1360-1385(99)01484-3"
-  link: https://doi.org/10.1016/s1360-1385(99)01484-3
+  authors:
+  - "R Guti\xE9rrez"
   publisher: Scientific publication
-  date: "1999-11-01"
+  date: '1999-11-01'
+  link: https://doi.org/10.1016/s1360-1385(99)01484-3
   date_precision: day
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Ghosh D., Erman M., Sawicki M., Lala P., Weeks D. R., Li N., Pangborn W.,\
+- id: doi:10.1107/s0907444999000244
+  title: "Ghosh D., Erman M., Sawicki M., Lala P., Weeks D. R., Li N., Pangborn W.,\
     \ Thiel D.J., Jornvall H., Guti\xE9rrez R.A., and Eyzaguirre, J (1999). Determination\
     \ of a protein structure by iodination: the structure of iodinated acetylxylan\
     \ esterase. Acta Cryst. D55: 779-784."
-  id: "doi:10.1107/s0907444999000244"
-  link: https://doi.org/10.1107/s0907444999000244
+  authors:
+  - Debashis Ghosh
+  - Mary Erman
+  - Mark Sawicki
+  - Puloma Lala
+  - Daniel R. Weeks
+  - Naiyin Li
+  - Walter Pangborn
+  - Daniel J. Thiel
+  - "Hans J\xF6rnvall"
+  - Rodrigo Gutierrez
+  - Jaime Eyzaguirre
   publisher: Scientific publication
-  date: "1999-04-01"
+  date: '1999-04-01'
+  link: https://doi.org/10.1107/s0907444999000244
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Guti\xE9rrez R., Cederlund E., Hjelmqvist L., Peirano A., Herrera F., Ghosh\
+- id: doi:10.1016/s0014-5793(98)00055-6
+  title: "Guti\xE9rrez R., Cederlund E., Hjelmqvist L., Peirano A., Herrera F., Ghosh\
     \ D., Duax W., Jornvall H. and Eyzaguirre, J. (1998). Acetyl xylan esterase II\
     \ from Penicillium purpurogenum is similar to an esterase from Trichoderma reesei\
     \ but lacks a cellulose binding domain. FEBS Letters 423:35-38."
-  id: "doi:10.1016/s0014-5793(98)00055-6"
-  link: https://doi.org/10.1016/s0014-5793(98)00055-6
+  authors:
+  - "Rodrigo Guti\xE9rrez"
+  - Ella Cederlund
+  - Lars Hjelmqvist
+  - Alessandra Peirano
+  - Francisco Herrera
+  - Debashis Ghosh
+  - William Duax
+  - "Hans J\xF6rnvall"
+  - Jaime Eyzaguirre
   publisher: Scientific publication
-  date: "1998-02-25"
+  date: '1998-02-25'
+  link: https://doi.org/10.1016/s0014-5793(98)00055-6
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Pangborn W., Erman M., Li N., Burkhart B. M., Pletnev V. Z., Duax W. L.,\
+- id: doi:10.1002/(sici)1097-0134(199604)24:4<523::aid-prot13>3.0.co;2-n
+  title: "Pangborn W., Erman M., Li N., Burkhart B. M., Pletnev V. Z., Duax W. L.,\
     \ Guti\xE9rrez R., Peirano A., Eyzaguirre J., Thiel D.J. and Ghosh D. (1996).\
     \ Characterization of crystals of Penicillium purpurogenum acetyl xylan esterase\
     \ from high resolution X-ray diffraction. Proteins: Structure, Function and Genetics\
     \ 24: 523-524."
-  id: "doi:10.1002/(sici)1097-0134(199604)24:4<523::aid-prot13>3.0.co;2-n"
-  link: https://doi.org/10.1002/(sici)1097-0134(199604)24:4<523::aid-prot13>3.0.co;2-n
+  authors:
+  - Walter Pangborn
+  - Mary Erman
+  - Naiyin Li
+  - Brian M. Burkhart
+  - Vladimir Z. Pletnev
+  - William L. Duax
+  - Rodrigo Gutierrez
+  - Alessandra Peirano
+  - Jaime Eyzaguirre
+  - Daniel J. Thiel
+  - Debashis Ghosh
   publisher: Scientific publication
-  date: "1996-04-01"
+  date: '1996-04-01'
+  link: https://doi.org/10.1002/(sici)1097-0134(199604)24:4<523::aid-prot13>3.0.co;2-n
   date_precision: month
-  date_source: "Crossref published"
+  date_source: Crossref published
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: "Ega\xF1a L., Guti\xE9rrez R., Caputo V., Peirano A., Steiner J. and Eyzaguirre\
+- id: doi:10.1111/j.1470-8744.1996.tb00385.x
+  title: "Ega\xF1a L., Guti\xE9rrez R., Caputo V., Peirano A., Steiner J. and Eyzaguirre\
     \ J. (1996). Purification and characterization of two acetyl xylan esterases from\
     \ Penicillium purpurogenum. Biotechnol. Appl. Biochem. 24:33-39."
-  id: "doi:10.1111/j.1470-8744.1996.tb00385.x"
-  link: https://doi.org/10.1111/j.1470-8744.1996.tb00385.x
+  authors:
+  - L. Egana
+  - R. Gutierrez
+  - V. Caputo
+  - A. Peirano
+  - J. Steiner
+  - J. Eyzaguirre
   publisher: Scientific publication
-  date: "2010-12-23"
+  date: '2010-12-23'
+  link: https://doi.org/10.1111/j.1470-8744.1996.tb00385.x
   date_precision: day
-  date_source: "Crossref published-online"
+  date_source: Crossref published-online
   type: paper
   plugin: sources.py
   file: sources.yaml
 - title: "Serrano C and Guti\xE9rrez RA (2018). Manual de Microbiolog\xEDa para Alumnos\
     \ y Ayudantes. Ediciones UC. Chile."
   publisher: Books & book chapters
-  date: "2018-01-01"
+  date: '2018-01-01'
   date_precision: year
-  date_source: "CV RG"
+  date_source: CV RG
   type: book
   plugin: sources.py
   file: sources.yaml
@@ -2467,9 +3208,9 @@
     \ RNA sequencing data. Methods in Molecular Biology. Root Development: Methods\
     \ and Protocols. Springer Publishing."
   publisher: Books & book chapters
-  date: "2017-01-01"
+  date: '2017-01-01'
   date_precision: year
-  date_source: "CV RG"
+  date_source: CV RG
   type: book
   plugin: sources.py
   file: sources.yaml
@@ -2478,9 +3219,9 @@
     \ plants. Chapter In Plant Functional Genomics: Methods and Protocols, Springer\
     \ Publishing."
   publisher: Books & book chapters
-  date: "2015-01-01"
+  date: '2015-01-01'
   date_precision: year
-  date_source: "CV RG"
+  date_source: CV RG
   type: book
   plugin: sources.py
   file: sources.yaml
@@ -2488,9 +3229,9 @@
     \ Biology: Principles and applications in plant research. Chapter In Systems Biology,\
     \ Wiley-Blackwell Publishing. Oxford, UK. Vol. 35, pp 3-40."
   publisher: Books & book chapters
-  date: "2009-01-01"
+  date: '2009-01-01'
   date_precision: year
-  date_source: "CV RG"
+  date_source: CV RG
   type: book
   plugin: sources.py
   file: sources.yaml
@@ -2498,9 +3239,9 @@
     \ (2009). A volume in the Annual Plant Reviews book series, Wiley-Blackwell Publishing,\
     \ Oxford, UK. Vol. 35."
   publisher: Books & book chapters
-  date: "2009-01-01"
+  date: '2009-01-01'
   date_precision: year
-  date_source: "CV RG"
+  date_source: CV RG
   type: book
   plugin: sources.py
   file: sources.yaml
@@ -2510,9 +3251,9 @@
     \ to the Plant Physiology, Fourth Edition by Lincoln Taiz and Eduardo Zeiger.\
     \ Sinaur Ass. inc."
   publisher: Books & book chapters
-  date: "2006-01-01"
+  date: '2006-01-01'
   date_precision: year
-  date_source: "CV RG"
+  date_source: CV RG
   type: book
   plugin: sources.py
   file: sources.yaml
