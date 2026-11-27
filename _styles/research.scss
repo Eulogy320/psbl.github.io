@@ -1,0 +1,25 @@
+---
+---
+
+.publication-count {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 10px;
+  margin: 12px 0 4px;
+  padding: 10px 18px;
+  border: 1px solid rgba(19, 168, 158, 0.35);
+  border-radius: 999px;
+  background: linear-gradient(135deg, rgba(19, 168, 158, 0.12), rgba(106, 157, 222, 0.12));
+  box-shadow: 0 4px 14px rgba(16, 75, 89, 0.08);
+}
+
+.publication-count-number {
+  color: #087f7a;
+  font-size: 1.45rem;
+  font-weight: 700;
+}
+
+.publication-count-label {
+  color: var(--gray);
+  font-weight: 600;
+}
