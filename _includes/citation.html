@@ -65,7 +65,14 @@
         </span>
         &nbsp;·&nbsp;
         <span class="citation-date">
-          {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
+          {% assign date_precision = citation.date_precision | default: "day" %}
+          {% if date_precision == "year" %}
+            {{- citation.date | default: "[no date info]" | date: "%Y" -}}
+          {% elsif date_precision == "month" %}
+            {{- citation.date | default: "[no date info]" | date: "%b %Y" -}}
+          {% else %}
+            {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
+          {% endif %}
         </span>
         &nbsp;·&nbsp;
         <span class="citation-id">
@@ -82,21 +89,6 @@
               | remove: "<p>"
               | remove: "</p>"
             }}
-          </div>
-        {% endif %}
-
-        {% if citation.buttons.size > 0 %}
-          <div class="citation-buttons">
-            {% for button in citation.buttons %}
-              {%
-                include button.html
-                type=button.type
-                icon=button.icon
-                text=button.text
-                link=button.link
-                style="bare"
-              %}
-            {% endfor %}
           </div>
         {% endif %}
 
