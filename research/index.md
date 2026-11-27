@@ -13,7 +13,7 @@ This section presents peer-reviewed articles, reviews, and conference contributi
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="doi:10.1002/ece3.73758" style="rich" %}
 
 {% include section.html %}
 
