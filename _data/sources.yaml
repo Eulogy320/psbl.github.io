@@ -973,3 +973,48 @@
   publisher: Books & book chapters
   date: '2006-01-01'
   type: book
+- id: pubmed:34357701
+  title: Nitrate triggered phosphoproteome changes and a PIN2 phosphosite modulating
+    root system architecture.
+  authors:
+  - Vega, Andrea
+  - Fredes, Isabel
+  - O'Brien, Jose
+  - Shen, Zhouxin
+  - Otvos, Krisztina
+  - Abualia, Rashed
+  - Benkova, Eva
+  - Briggs, Steven P
+  - Gutierrez, Rodrigo A
+  publisher: EMBO Rep
+  date: '2021-09-06'
+  link: https://doi.org/10.15252/embr.202051813
+  type: paper
+- id: pubmed:25039575
+  title: Systems approach identifies TGA1 and TGA4 transcription factors as important
+    regulatory components of the nitrate response of Arabidopsis thaliana roots.
+  authors:
+  - Alvarez, Jose M
+  - Riveras, Eleodoro
+  - Vidal, Elena A
+  - Gras, Diana E
+  - Contreras-Lopez, Orlando
+  - Tamayo, Karem P
+  - Aceituno, Felipe
+  - Gomez, Isabel
+  - Ruffel, Sandrine
+  - Lejay, Laurence
+  - Jordana, Xavier
+  - Gutierrez, Rodrigo A
+  publisher: Plant J
+  date: '2014-07-16'
+  link: https://doi.org/10.1111/tpj.12618
+  type: paper
+- id: pubmed:18811951
+  title: 'The rules of gene expression in plants: Organ identity and gene body methylation
+    are key factors for regulation of gene expression in Arabidopsis thaliana.'
+  authors: []
+  publisher: BMC Genomics
+  date: '2008-09-23'
+  link: https://pubmed.ncbi.nlm.nih.gov/18811951/
+  type: paper
