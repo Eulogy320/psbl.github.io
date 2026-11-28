@@ -32,9 +32,19 @@
 }
 
 footer .funding-section {
-  width: min(100%, 1000px);
+  width: 100%;
+  max-width: none;
   margin-top: 0;
   background: rgba(255, 255, 255, 0.92);
+}
+
+footer .funding-grid {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+footer .funding-card {
+  min-height: 108px;
+  box-shadow: none;
 }
 
 .funding-section h2 {
@@ -78,6 +88,9 @@ footer .funding-section {
     align-items: flex-start;
   }
   .funding-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  footer .funding-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
