@@ -14,7 +14,7 @@ title: Home
   </div>
   <div class="home-hero-mark">
     <img class="home-hero-logo" src="{{ '/images/logo.png' | relative_url }}" alt="Plant Systems Biology Lab">
-    <img class="home-hero-nitrate" src="{{ '/images/nitrate-signal.png' | relative_url }}" alt="Nitrate signaling network">
+    <img class="home-hero-nitrate" src="{{ '/images/nitrate-signal-v2.png' | relative_url }}" alt="Nitrate signaling network">
   </div>
 </section>
 
@@ -50,7 +50,7 @@ Our laboratory integrates experimental plant biology, computational modeling, an
   image="images/photo.png"
   link="research"
   title="Our Research"
-  badge="images/nitrate-signal.png"
+  badge="images/nitrate-signal-v2.png"
   text=text
 %}
 
