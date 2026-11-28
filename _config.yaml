@@ -5,7 +5,7 @@ show-title: false
 show-subtitle: false
 description: At the Potificia Universidad Católica de Chile.
 header: images/virtualplant-header.png
-footer: images/hero-arabidopsis.png
+footer: images/virtualplant-header.png
 proofer: false
 
 # site social media and other links
