@@ -43,7 +43,7 @@ Our laboratory integrates experimental plant biology, computational modeling, an
   image="images/photo.jpg"
   link="research"
   title="Our Research"
-  badge="images/logo.png"
+  badge="images/nitrate-signal.png"
   text=text
 %}
 
@@ -67,7 +67,7 @@ Our projects address fundamental and applied questions in plant and ecosystem bi
   image="images/background.jpg"
   link="projects"
   title="Our Projects"
-  badge="images/logo.png"
+  badge="images/psbl-virtualplant-logo.png"
   flip=true
   style="bare"
   text=text
