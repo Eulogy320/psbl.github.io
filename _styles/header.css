@@ -55,6 +55,13 @@ header a {
   font-weight: var(--thin);
 }
 
+.affiliation {
+  color: var(--gray);
+  font-size: 0.78rem;
+  line-height: 1.35;
+  text-align: left;
+}
+
 .nav-toggle {
   display: none;
   position: relative;
@@ -142,6 +149,9 @@ header[data-big] .title {
 }
 header[data-big] .subtitle {
   font-size: var(--large);
+}
+header[data-big] .affiliation {
+  text-align: center;
 }
 
 /*# sourceMappingURL=header.css.map */
