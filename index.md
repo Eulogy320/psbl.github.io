@@ -13,7 +13,7 @@ title: Home
     </div>
   </div>
   <div class="home-hero-mark">
-      <img class="home-hero-logo" src="{{ '/images/logo-psbl-redesign.png' | relative_url }}" alt="Plant Systems Biology Lab">
+      <img class="home-hero-logo" src="{{ '/images/logo-psbl-original-clean.png' | relative_url }}" alt="Plant Systems Biology Lab">
     <img class="home-hero-nitrate" src="{{ '/images/nitrate-signal-v2.png' | relative_url }}" alt="Nitrate signaling network">
   </div>
 </section>
@@ -101,6 +101,6 @@ Our team is an interdisciplinary group of researchers with expertise in plant bi
   image="images/grupal_pic.png"
   link="team"
   title="Our Team"
-  badge="images/logo-psbl-redesign.png"
+  badge="images/logo-psbl-original-clean.png"
   text=text
 %}
