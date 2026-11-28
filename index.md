@@ -43,7 +43,7 @@ Our laboratory integrates experimental plant biology, computational modeling, an
 
 {%
   include feature.html
-  image="images/photo.png"
+  image="images/virtualplant-header.png"
   link="research"
   title="Our Research"
   text=text
