@@ -12,6 +12,77 @@
   text-align: left;
 }
 
+.home-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(260px, 0.75fr);
+  gap: 48px;
+  align-items: center;
+  min-height: 520px;
+  margin: 0;
+  padding: 80px max(40px, (100% - 1180px) / 2);
+  background: #111827;
+  color: #fff;
+  text-align: left;
+}
+
+.home-hero h1 {
+  max-width: 720px;
+  margin: 0 0 24px;
+  color: #fff;
+  font-size: clamp(2.6rem, 6vw, 5.2rem);
+}
+
+.home-hero-lede {
+  max-width: 650px;
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 1.2rem;
+}
+
+.eyebrow {
+  color: #a7d76b;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+}
+
+.home-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.home-hero .button {
+  margin: 0;
+}
+
+.home-hero .button[data-style=bare] {
+  color: #a7d76b;
+}
+
+.home-hero-mark {
+  display: grid;
+  place-items: center;
+  gap: 30px;
+  padding: 34px;
+  border: 1px solid rgba(167, 215, 107, 0.35);
+  border-radius: 28px;
+  background: radial-gradient(circle at 50% 30%, rgba(109, 187, 69, 0.18), transparent 62%);
+}
+
+.home-hero-logo {
+  width: min(100%, 360px);
+  height: auto;
+}
+
+.home-hero-nitrate {
+  width: 92px;
+  height: 78px;
+  object-fit: contain;
+  filter: saturate(0.9) brightness(1.15);
+}
+
 .lab-focus img {
   width: 72px;
   height: 62px;
@@ -102,6 +173,18 @@ footer .funding-card span {
 }
 
 @media (max-width: 700px) {
+  .home-hero {
+    grid-template-columns: 1fr;
+    min-height: auto;
+    padding: 58px 24px;
+  }
+  .home-hero-mark {
+    order: -1;
+    padding: 22px;
+  }
+  .home-hero-logo {
+    width: min(100%, 280px);
+  }
   .lab-focus {
     align-items: flex-start;
   }
