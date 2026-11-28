@@ -13,7 +13,7 @@ title: Home
     </div>
   </div>
   <div class="home-hero-mark">
-      <img class="home-hero-logo" src="{{ '/images/logo-psbl-original-clean.png' | relative_url }}" alt="Plant Systems Biology Lab">
+    <img class="home-hero-logo" src="{{ '/images/logo.png' | relative_url }}" alt="Plant Systems Biology Lab">
   </div>
 </section>
 
@@ -99,6 +99,6 @@ Our team is an interdisciplinary group of researchers with expertise in plant bi
   image="images/grupal_pic.png"
   link="team"
   title="Our Team"
-  badge="images/logo-psbl-original-clean.png"
+  badge="images/logo.png"
   text=text
 %}
