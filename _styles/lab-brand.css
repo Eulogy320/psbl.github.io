@@ -113,8 +113,12 @@ footer .funding-section {
 }
 
 footer {
-  background: #ffffff !important;
-  color: #12384b;
+  background: #111827 !important;
+  color: rgba(255, 255, 255, 0.78);
+}
+
+footer .funding-section h2 {
+  color: #ffffff;
 }
 
 footer .funding-grid {
@@ -126,7 +130,7 @@ footer .funding-card {
   min-height: 80px;
   padding: 8px;
   border: 0;
-  background: transparent;
+  background: rgba(255, 255, 255, 0.04);
   box-shadow: none;
 }
 
