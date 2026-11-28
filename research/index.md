@@ -2,33 +2,41 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research lines and approaches
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-This section presents peer-reviewed articles, reviews, and conference contributions produced by PSBL's members. Rodrigo Gutiérrez's CV (CV RG) is the primary source for this list; the historical VirtualPlant records are used only to add unique publications that are missing from the CV, with duplicates removed. These publications reflect our interdisciplinary research in plant development, computational biology, quantitative modeling, and document our scientific contributions to understanding plant growth, structure, and adaptive processes.
+Our laboratory studies how plants sense and respond to nutrients, and how these signals interact with hormonal and environmental pathways to coordinate growth and development. We combine systems biology, molecular genetics, genomics, quantitative modeling, and bioinformatics to generate and test mechanistic hypotheses.
 
-{% assign publication_count = site.data.citations | size %}
-<div class="publication-count" aria-label="{{ publication_count }} publications in Research">
-  <span class="publication-count-number">{{ publication_count }}</span>
-  <span class="publication-count-label">publications</span>
+{% include section.html %}
+
+## Systems biology of nutrient regulation
+
+Our central research question is how nitrogen signaling intersects with other regulatory networks in *Arabidopsis thaliana*. We develop network models to map information flow, identify regulatory modules, and select genes whose functions can be tested experimentally. This iterative combination of modeling and experiments helps reveal the molecular logic underlying nutrient responses.
+
+<div class="research-callout">
+  <img src="{{ '/images/arabidopsis-small.png' | relative_url }}" alt="Arabidopsis thaliana" loading="lazy">
+  <div>
+    <strong>From networks to mechanisms</strong>
+    <p>Predictions from gene-network models guide mutant generation, phenotyping under different nutrient and hormone conditions, and genomic analysis of the resulting responses.</p>
+  </div>
 </div>
 
-<h2 class="publication-count-heading">{{ publication_count }} publications in our research archive</h2>
+## Nitrate–hormone interactions
+
+We investigate how nitrate status is integrated with hormone signaling. Our experimental work combines qualitative network modeling, large-scale functional studies, mutant phenotyping, and transcriptomic or genomic measurements to identify the key regulators of this cross-talk.
+
+## Bioinformatics and predictive modeling
+
+Post-genomic experiments generate large and heterogeneous datasets. We integrate public genomic resources, literature-derived knowledge, and experimental data into interpretable network models that help identify associations between genes, proteins, and biological processes. These approaches support visualization, hypothesis generation, and quantitative analysis of molecular networks.
+
+## Biotechnological perspectives
+
+Understanding how plants sense and use nitrogen can inform strategies to improve nitrogen-use efficiency and agronomically relevant traits. The principles and computational tools developed in the laboratory are designed to be transferable to other sequenced organisms and to support research in sustainable agriculture and plant resilience.
 
 {% include section.html %}
 
-## Highlighted
+## Explore our work
 
-{% include citation.html lookup="doi:10.1002/ece3.73758" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include button.html link="publications" text="View publications" icon="fa-solid fa-book-open" flip=true style="bare" %}

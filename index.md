@@ -6,6 +6,11 @@ title: Home
 
 Our main goal is to understand how plants sense and respond to nutrients. And in particular, how nutrient signals interact with other signaling pathways to coordinate global gene expression in plants.
 
+<div class="lab-focus">
+  <img src="{{ '/images/nitrate-signal.png' | relative_url }}" alt="Nitrate signaling network" loading="lazy">
+  <p><strong>Nutrient signaling and plant systems biology.</strong><br>We combine experimental and computational approaches to understand how nitrate signals coordinate plant growth and development.</p>
+</div>
+
 {% include section.html full=true %}
 
 {% include figure.html
@@ -24,7 +29,7 @@ Our laboratory integrates experimental plant biology, computational modeling, an
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -41,6 +46,18 @@ Our laboratory integrates experimental plant biology, computational modeling, an
   badge="images/psbl-virtualplant-logo.png"
   text=text
 %}
+
+{% include section.html %}
+
+<section class="funding-section">
+  <h2>Funding sources</h2>
+  <div class="funding-grid">
+    <div class="funding-card"><img src="{{ '/images/funding-icm.png' | relative_url }}" alt="Millennium Science Initiative"><span>Millennium Science Initiative</span></div>
+    <div class="funding-card"><img src="{{ '/images/funding-government.jpg' | relative_url }}" alt="Government of Chile"><span>FONDAP / ANID</span></div>
+    <div class="funding-card"><img src="{{ '/images/funding-puc.png' | relative_url }}" alt="Pontificia Universidad Católica de Chile"><span>Pontificia Universidad Católica de Chile</span></div>
+    <div class="funding-card"><img src="{{ '/images/funding-cgr.jpg' | relative_url }}" alt="Center for Genome Regulation"><span>Center for Genome Regulation</span></div>
+  </div>
+</section>
 
 {% capture text %}
 
