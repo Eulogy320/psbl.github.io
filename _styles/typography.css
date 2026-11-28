@@ -1,0 +1,21 @@
+h1, h2, h3 {
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: clamp(2rem, 5vw, 3.4rem);
+  color: var(--text);
+}
+
+h2 {
+  margin-top: 1.8em;
+  color: var(--text);
+}
+
+a {
+  text-underline-offset: 3px;
+}
+
+/*# sourceMappingURL=typography.css.map */

@@ -1,5 +1,6 @@
 section {
   padding: 40px max(40px, (100% - 1000px) / 2);
+  border-top: 1px solid color-mix(in srgb, var(--primary) 8%, transparent);
   transition: background var(--transition), color var(--transition);
 }
 
