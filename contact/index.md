@@ -34,7 +34,7 @@ asdasdf asdadsads.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/photo.png"
   caption="psbl"
 %}
 
@@ -44,7 +44,7 @@ asdasdf asdadsads.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/photo.png"
   caption="psbl"
 %}
 

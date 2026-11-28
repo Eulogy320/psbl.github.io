@@ -1,7 +1,7 @@
 - title: Nitrate control of leaf growth and size in Arabidopsis thaliana
   subtitle: ANID-FONDECYT
   group: featured
-  image: images/photo.jpg
+  image: images/photo.png
   link: https://github.com/
   description: To elucidate how nitrate and cytokinin signaling networks interact to regulate cell proliferation and endoreplication, thereby controlling leaf growth and size in Arabidopsis thaliana.
   repo: greenelab/lab-website-template
@@ -11,7 +11,7 @@
 - title: Millennium Institute for Plant Systems and Synthetic Biology
   subtitle: ICM
   group: featured
-  image: images/photo.jpg
+  image: images/photo.png
   link: https://github.com/
   description: It outlines the global challenges in food security and agricultural sustainability and underscores the need to understand how plants and fungi respond to environmental perturbations at the molecular level. The IMBISS addresses these challenges through integrative and synthetic biology approaches, combining plant and fungal research to generate innovative solutions, train advanced scientists, and foster societal impact.
   repo: greenelab/lab-website-template
@@ -20,7 +20,7 @@
 
 - title: Millennium Institute Center for Genome Regulation
   subtitle: ICM
-  image: images/photo.jpg
+  image: images/photo.png
   link: https://github.com/
   description: This project seeks to understand how genomic information is stored, processed, and translated into adaptive phenotypes by integrating comparative genomics, molecular genetics, and systems biology across diverse organisms and extreme environments.
   repo: greenelab/lab-website-template
@@ -29,7 +29,7 @@
 
 - title: "Analysis and reconstruction of the biodiversity of the Salar de La Isla: a metagenomic and paleogenomic approach to understand its evolution and assess the impact of mining on the ecosystem."
   subtitle: ANID
-  image: images/photo.jpg
+  image: images/photo.png
   link: https://github.com/
   description: To characterize the present and past biodiversity of the Salar de La Isla using metagenomics, paleogenomics, and biogeochemical markers as indicators to assess the impact of mining on the ecosystem.
   repo: greenelab/lab-website-template
@@ -38,7 +38,7 @@
 
 - title: Mathematical modeling and Synthetic Biology approaches to understand nitrate control of leaf size in plants.
   subtitle: ANID
-  image: images/photo.jpg
+  image: images/photo.png
   link: https://github.com/
   description: This project combines mathematical modeling and synthetic biology to uncover how nitrate signaling regulates leaf growth and size, with implications for improving crop yield.
   repo: greenelab/lab-website-template
@@ -47,7 +47,7 @@
 
 - title: Integration of biological, hydrogeological, paleoecological, and social studies to understand the evolution and ecosystem resilience of the Salar de La Isla under scenarios of climate change and mining exploitation.
   subtitle: ANID
-  image: images/photo.jpg
+  image: images/photo.png
   link: https://github.com/
   description: This multidisciplinary project aims to build an integrated hydrogeoecological and social baseline of the Salar de La Isla to assess its biodiversity, evolution, and resilience under climate change and lithium mining pressures, enabling predictive modeling and sustainable management.
   repo: greenelab/lab-website-template
@@ -56,7 +56,7 @@
 
 - title: Potato transfer for food security.
   subtitle: GORE ANTOFAGASTA
-  image: images/photo.jpg
+  image: images/photo.png
   link: https://github.com/
   description: This project aims to strengthen food security in northern Chile by developing climate-resilient, high-nutritional native crops (Kulchao and papa chúcara) through applied science and sustainable agricultural innovation.
   repo: greenelab/lab-website-template
@@ -65,7 +65,7 @@
 
 - title: AI-Assisted exploration of massive biological knowledge sources to improve plant nitrogen-use efficiency.
   subtitle: UC
-  image: images/photo.jpg
+  image: images/photo.png
   link: https://github.com/
   description: This project aims to develop a plant science–specific AI copilot, based on large language models trained on biological data, to accelerate knowledge integration, generate testable hypotheses, and enhance research on plant resilience under climate change.
   repo: greenelab/lab-website-template

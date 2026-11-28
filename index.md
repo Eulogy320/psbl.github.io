@@ -14,7 +14,7 @@ Our main goal is to understand how plants sense and respond to nutrients. And in
 {% include section.html full=true %}
 
 {% include figure.html
-  image="images/grupal_pic.jpeg"
+  image="images/grupal_pic.png"
   link="team"
   width="1182px"
 %}
@@ -40,7 +40,7 @@ Our laboratory integrates experimental plant biology, computational modeling, an
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo.png"
   link="research"
   title="Our Research"
   badge="images/nitrate-signal.png"
@@ -64,7 +64,7 @@ Our projects address fundamental and applied questions in plant and ecosystem bi
 
 {%
   include feature.html
-  image="images/background.jpg"
+  image="images/background.png"
   link="projects"
   title="Our Projects"
   badge="images/psbl-virtualplant-logo.png"
@@ -91,7 +91,7 @@ Our team is an interdisciplinary group of researchers with expertise in plant bi
 
 {%
   include feature.html
-  image="images/grupal_pic.jpeg"
+  image="images/grupal_pic.png"
   link="team"
   title="Our Team"
   badge="images/logo.png"
