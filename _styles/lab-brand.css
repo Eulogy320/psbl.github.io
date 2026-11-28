@@ -31,6 +31,12 @@
   background: linear-gradient(135deg, rgba(18, 56, 75, 0.06), rgba(19, 168, 158, 0.09));
 }
 
+footer .funding-section {
+  width: min(100%, 1000px);
+  margin-top: 0;
+  background: rgba(255, 255, 255, 0.92);
+}
+
 .funding-section h2 {
   margin-top: 0;
 }
