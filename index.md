@@ -2,14 +2,21 @@
 title: Home
 ---
 
-# Plant system Biology Lab at Pontificia Universidad Católica de Chile 
-
-Our main goal is to understand how plants sense and respond to nutrients. And in particular, how nutrient signals interact with other signaling pathways to coordinate global gene expression in plants.
-
-<div class="lab-focus">
-  <img src="{{ '/images/nitrate-signal.png' | relative_url }}" alt="Nitrate signaling network" loading="lazy">
-  <p><strong>Nutrient signaling and plant systems biology.</strong><br>We combine experimental and computational approaches to understand how nitrate signals coordinate plant growth and development.</p>
-</div>
+<section class="home-hero">
+  <div class="home-hero-copy">
+    <p class="eyebrow">PLANT SYSTEMS BIOLOGY LAB · PUCHILE</p>
+    <h1>Understanding how plants sense, signal, and grow.</h1>
+    <p class="home-hero-lede">We study how nutrient signals interact with genetic, hormonal, and environmental networks to coordinate plant development and adaptation.</p>
+    <div class="home-hero-actions">
+      {% include button.html link="research" text="Explore our research" icon="fa-solid fa-arrow-right" flip=true %}
+      {% include button.html link="publications" text="View publications" icon="fa-solid fa-book-open" style="bare" %}
+    </div>
+  </div>
+  <div class="home-hero-mark">
+    <img class="home-hero-logo" src="{{ '/images/logo.png' | relative_url }}" alt="Plant Systems Biology Lab">
+    <img class="home-hero-nitrate" src="{{ '/images/nitrate-signal.png' | relative_url }}" alt="Nitrate signaling network">
+  </div>
+</section>
 
 {% include section.html full=true %}
 
@@ -21,11 +28,11 @@ Our main goal is to understand how plants sense and respond to nutrients. And in
 
 {% include section.html %}
 
-## Highlights
+## The lab at a glance
 
 {% capture text %}
 
-Our laboratory integrates experimental plant biology, computational modeling, and systems-level analysis to understand how plants perceive and respond to environmental signals. By combining molecular genetics, quantitative approaches, and theoretical frameworks, we aim to uncover regulatory mechanisms that control growth, adaptation, and resilience, generating knowledge with relevance for both fundamental science and sustainable agriculture..
+Our laboratory integrates experimental plant biology, computational modeling, and systems-level analysis to understand how plants perceive and respond to environmental signals. By combining molecular genetics, quantitative approaches, and theoretical frameworks, we aim to uncover regulatory mechanisms that control growth, adaptation, and resilience.
 
 {%
   include button.html
