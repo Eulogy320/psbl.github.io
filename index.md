@@ -73,18 +73,6 @@ Our projects address fundamental and applied questions in plant and ecosystem bi
   text=text
 %}
 
-{% include section.html %}
-
-<section class="funding-section">
-  <h2>Funding sources</h2>
-  <div class="funding-grid">
-    <div class="funding-card"><img src="{{ '/images/funding-icm.png' | relative_url }}" alt="Millennium Science Initiative"><span>Millennium Science Initiative</span></div>
-    <div class="funding-card"><img src="{{ '/images/funding-government.jpg' | relative_url }}" alt="Government of Chile"><span>FONDAP / ANID</span></div>
-    <div class="funding-card"><img src="{{ '/images/funding-puc.png' | relative_url }}" alt="Pontificia Universidad Católica de Chile"><span>Pontificia Universidad Católica de Chile</span></div>
-    <div class="funding-card"><img src="{{ '/images/funding-cgr.jpg' | relative_url }}" alt="Center for Genome Regulation"><span>Center for Genome Regulation</span></div>
-    <div class="funding-card"><img src="{{ '/images/funding-ibio.jpg' | relative_url }}" alt="iBio Institute"><span>iBio Institute</span></div>
-  </div>
-</section>
 
 {% capture text %}
 
