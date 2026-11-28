@@ -35,16 +35,34 @@ footer .funding-section {
   width: 100%;
   max-width: none;
   margin-top: 0;
-  background: rgba(255, 255, 255, 0.92);
+  background: transparent;
+}
+
+footer {
+  background: #ffffff !important;
+  color: #12384b;
 }
 
 footer .funding-grid {
   grid-template-columns: repeat(5, minmax(0, 1fr));
+  align-items: center;
 }
 
 footer .funding-card {
-  min-height: 108px;
+  min-height: 80px;
+  padding: 8px;
+  border: 0;
+  background: transparent;
   box-shadow: none;
+}
+
+footer .funding-card img {
+  width: min(100%, 150px);
+  height: 70px;
+}
+
+footer .funding-card span {
+  display: none;
 }
 
 .funding-section h2 {
