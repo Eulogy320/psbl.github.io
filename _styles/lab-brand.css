@@ -35,6 +35,10 @@
   font-size: clamp(2.6rem, 6vw, 5.2rem);
 }
 
+.home-hero-copy {
+  grid-column: 1/-1;
+}
+
 .home-hero-lede {
   max-width: 650px;
   color: rgba(255, 255, 255, 0.78);
