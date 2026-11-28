@@ -69,7 +69,6 @@ Our projects address fundamental and applied questions in plant and ecosystem bi
   image="images/projects-systems-biology.png"
   link="projects"
   title="Our Projects"
-  badge="images/psbl-virtualplant-logo.png"
   flip=true
   style="bare"
   text=text
