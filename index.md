@@ -56,6 +56,7 @@ Our laboratory integrates experimental plant biology, computational modeling, an
     <div class="funding-card"><img src="{{ '/images/funding-government.jpg' | relative_url }}" alt="Government of Chile"><span>FONDAP / ANID</span></div>
     <div class="funding-card"><img src="{{ '/images/funding-puc.png' | relative_url }}" alt="Pontificia Universidad Católica de Chile"><span>Pontificia Universidad Católica de Chile</span></div>
     <div class="funding-card"><img src="{{ '/images/funding-cgr.jpg' | relative_url }}" alt="Center for Genome Regulation"><span>Center for Genome Regulation</span></div>
+    <div class="funding-card"><img src="{{ '/images/funding-ibio.jpg' | relative_url }}" alt="iBio Institute"><span>iBio Institute</span></div>
   </div>
 </section>
 
