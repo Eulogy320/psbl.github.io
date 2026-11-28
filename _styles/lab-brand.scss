@@ -32,6 +32,7 @@
 }
 
 .home-hero h1 { max-width: 720px; margin: 0 0 24px; color: #fff; font-size: clamp(2.6rem, 6vw, 5.2rem); }
+.home-hero-copy { grid-column: 1 / -1; }
 .home-hero-lede { max-width: 650px; color: rgba(255, 255, 255, 0.78); font-size: 1.2rem; }
 .eyebrow { color: #a7d76b; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.16em; }
 .home-hero-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 30px; }

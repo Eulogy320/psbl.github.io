@@ -12,9 +12,6 @@ title: Home
       {% include button.html link="publications" text="View publications" icon="fa-solid fa-book-open" style="bare" %}
     </div>
   </div>
-  <div class="home-hero-mark">
-    <img class="home-hero-logo" src="{{ '/images/logo.png' | relative_url }}" alt="Plant Systems Biology Lab">
-  </div>
 </section>
 
 {% include section.html full=true %}
