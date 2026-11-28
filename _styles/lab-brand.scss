@@ -64,6 +64,8 @@ footer {
   color: rgba(255, 255, 255, 0.78);
 }
 
+footer.background:before { opacity: 0.24; }
+
 footer .funding-section h2 { color: #ffffff; }
 
 footer .funding-grid {
