@@ -96,6 +96,5 @@ Our team is an interdisciplinary group of researchers with expertise in plant bi
   image="images/grupal_pic.png"
   link="team"
   title="Our Team"
-  badge="images/logo.png"
   text=text
 %}
