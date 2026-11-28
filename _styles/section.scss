@@ -6,6 +6,7 @@ $padding: 40px;
 
 section {
   padding: $padding max($padding, calc((100% - $page) / 2));
+  border-top: 1px solid color-mix(in srgb, var(--primary) 8%, transparent);
   transition: background var(--transition), color var(--transition);
 }
 

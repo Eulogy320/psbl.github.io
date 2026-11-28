@@ -7,15 +7,15 @@ $wrap: 800px;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 40px;
-  margin: 40px 0;
+  gap: 56px;
+  margin: 64px 0;
 }
 
 .feature-image {
   flex-shrink: 0;
   width: 40%;
   aspect-ratio: 3 / 2;
-  border-radius: var(--rounded);
+  border-radius: 20px;
   overflow: hidden;
   box-shadow: var(--shadow);
 }
@@ -58,7 +58,8 @@ $wrap: 800px;
   font-size: var(--large);
   text-align: center;
   font-family: var(--heading);
-  font-weight: var(--semi-bold);
+  font-weight: var(--bold);
+  letter-spacing: -0.02em;
 }
 
 .feature[data-flip] {
