@@ -1,6 +1,8 @@
 # site properties and page defaults
 title: PSBL
 subtitle: Plant System Biology Lab
+show-title: false
+show-subtitle: false
 description: At the Potificia Universidad Católica de Chile.
 header: images/virtualplant-header.jpg
 footer: images/background.jpg
