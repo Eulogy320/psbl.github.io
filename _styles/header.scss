@@ -15,8 +15,8 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
-  background: #111827 !important;
-  color: #ffffff;
+  background: #ffffff !important;
+  color: #111827;
 
   @if $sticky {
     position: sticky !important;
@@ -26,7 +26,7 @@ header {
 }
 
 header a {
-  color: #ffffff;
+  color: #111827;
   text-decoration: none;
 }
 
@@ -70,7 +70,7 @@ header a {
 }
 
 .affiliation {
-  color: rgba(255, 255, 255, 0.78);
+  color: #66737a;
   font-size: 0.78rem;
   line-height: 1.35;
   text-align: left;

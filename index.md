@@ -6,7 +6,7 @@ title: Home
   <div class="home-hero-copy">
     <p class="eyebrow">PLANT SYSTEMS BIOLOGY LAB · PUCHILE</p>
     <h1>Understanding how plants sense, signal, and grow.</h1>
-    <p class="home-hero-lede">We study how nutrient signals interact with genetic, hormonal, and environmental networks to coordinate plant development and adaptation.</p>
+    <p class="home-hero-lede">Using <em>Arabidopsis thaliana</em> as a model, we study how nutrient signals interact with genetic, hormonal, and environmental networks to coordinate plant development and adaptation.</p>
     <div class="home-hero-actions">
       {% include button.html link="research" text="Explore our research" icon="fa-solid fa-arrow-right" flip=true %}
       {% include button.html link="publications" text="View publications" icon="fa-solid fa-book-open" style="bare" %}
